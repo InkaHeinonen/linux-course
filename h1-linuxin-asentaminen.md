@@ -41,3 +41,7 @@
 - Tämän jälkeen avautui ilmoitus: "The virtual machine fialed to boot. That migth be caused by a missing operating system or misconfigured boot order. Mounting an operating system install DVD might solve this problem. Selecting an ISO file will attempt to mount it after the dialog is closed." Valitsin laatikosta ladatun debian-live-13.0.0.... ja painoin kuitenkin Cancel.
 - Uudestaan painaessani Start with GUI, avautui normaalisti Boot menu. Painoin valikosta Enter-näppäimellä ensimmäistä valintaa "Live System (amd64)
 - Painauksen jälkeen aukesi mustalla taustalla ikkuna, jossa teksti: "This kernel requires an x86-64 CPU, but only detected an i686 CPU. Unable to boot - please use a kernel appropriate for your CPU. Tässä havaitsin tehneeni jonkin virheen.
+
+### Lähteet:
+- Tero Karvinen 2025: Linux palvelimet 2025 alkusyksy, https://terokarvinen.com/linux-palvelimet
+- Johanna Heinonen 2025: How to Install Linux to Virtualbox? https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-20082025.md
