@@ -13,3 +13,6 @@
 - Seuraavalla sivulla on lisenssi, joka tuli hyväksyä sekä painaa Next.
 - Seuraavalla sivulla voi valita itselleen sopivamman paikan asennukselle. En tehnyt muutoksia sijaintiin ja painoin Next.
 - Tämän jälkeen tuli varoitussivu, jossa kerrotaan latauksen aikana internet-yhteyden katkeavan ja yhteyttä vaativat asiat olisi syytä sulkea ennen latausta. Tässä vaiheessa tallensin raportin. 
+- Seuraavalla sivulla kerrotaan, mitä Oracle Virtualbox 7.2.0 Python vaatii ja nämä on mahdollista asentaa jälkikäteenkin. Vaihtoehtopainikkeet Kyllä ja Ei, josta painoin Kyllä.
+- Sivuksi aukesi otsikolla Custom Setup, jossa mahdollista valita aloitukseen mieluisat vaihtoehdot. Jätin kaikki valinnat, jotka olivat valmiina. Jokaisessa ruudussa on valinta ja painoin Next.
+- Sivunäkymän otsikkona Ready to Install, josta painoin Install. Asennusajankohtana klo 19.28. 
