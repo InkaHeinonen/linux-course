@@ -4,6 +4,7 @@
 - Käytössä Windows 11 järjestelmä, VirtualBox 7.2.0
 - Virtuaaliboxi ladattu osoitteesta https://www.virtualbox.org/wiki/Downloads.
 - Internet-selaimena Google Chrome
+- Työskentelyn aloitus 25.8.2025 kello 19.15
 
 ## Debian ISO imagen lataus
 - Painoin ladatakseni täältä sivustolta: https://cdimage.debian.org/debian-cd/13.0.0-live/amd64/iso-hybrid/, tämän:debian-live-13.0.0-amd64-xfce.iso (3.5G). Painaessani tätä, sivusto latasi noin 3min, jonka jälkeen ladatut tiedostot-kansioon latautui noin 5 minuutissa. Latauksen aukaistaessani, tuli ilmoitus, haluanko avata sovelluksen ja painoin Avaa. Lataus avautui tietokoneelleni DVD-asemana. 
@@ -40,7 +41,11 @@
 - Machines-näkymässä esillä äsken luotu test-debian-live, jossa lukee Power off. Kuvakkeen päältä painoni oikealla hiiren klikkauksella Start ja Start with GUI
 - Tämän jälkeen avautui ilmoitus: "The virtual machine fialed to boot. That migth be caused by a missing operating system or misconfigured boot order. Mounting an operating system install DVD might solve this problem. Selecting an ISO file will attempt to mount it after the dialog is closed." Valitsin laatikosta ladatun debian-live-13.0.0.... ja painoin kuitenkin Cancel.
 - Uudestaan painaessani Start with GUI, avautui normaalisti Boot menu. Painoin valikosta Enter-näppäimellä ensimmäistä valintaa "Live System (amd64)
-- Painauksen jälkeen aukesi mustalla taustalla ikkuna, jossa teksti: "This kernel requires an x86-64 CPU, but only detected an i686 CPU. Unable to boot - please use a kernel appropriate for your CPU. Tässä havaitsin tehneeni jonkin virheen.
+- Painauksen jälkeen aukesi mustalla taustalla ikkuna, jossa teksti: "This kernel requires an x86-64 CPU, but only detected an i686 CPU. Unable to boot - please use a kernel appropriate for your CPU. Tässä kohdassa  havaitsin tehneeni jonkin virheen.
+
+## Haasteet ja ongelmanratkaisu
+- Edellisessä kohdassa havaitsin tehneeni jonkin virheen, mutta en sitä ohjeista. Aihe on itselleni uusi, joten olin täysin vieraalla maaperällä. Kysyn neuvoa seuravaalla oppitunnilla. 
+- Työskentelyn lopetus klo 20.50, kokonaisaika 1h ja 35min. 
 
 ### Lähteet:
 - Tero Karvinen 2025: Linux palvelimet 2025 alkusyksy, https://terokarvinen.com/linux-palvelimet
