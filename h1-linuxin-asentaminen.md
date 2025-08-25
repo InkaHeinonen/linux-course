@@ -3,6 +3,7 @@
 ## 2. Linuxin asentaminen
 - Käytössä Windows 11 järjestelmä, VirtualBox 7.2.0
 - Virtuaaliboxi ladattu osoitteesta https://www.virtualbox.org/wiki/Downloads.
+- Internet-selaimena Google Chrome
 
   ## Virtuaaliboxin asennus
 - Aloitusajankohta klo 19.15.
@@ -19,8 +20,21 @@
 - Asennuksen jälkeen tulee ilmoitus toteutuneesta asennuksesta ja kysymys, avataanko Virtuaaliboksi. Valitsin painikkeen Finish.
 
 ## Debian ISO imagen lataus
+- Painoin ladatakseni täältä sivustolta: https://cdimage.debian.org/debian-cd/13.0.0-live/amd64/iso-hybrid/, tämän:debian-live-13.0.0-amd64-xfce.iso (3.5G). Painaessani tätä, sivusto latasi noin 3min, jonka jälkeen ladatut tiedostot-kansioon latautui noin 5 minuutissa. Latauksen aukaistaessani, tuli ilmoitus, haluanko avata sovelluksen ja painoin Avaa. Lataus avautui tietokoneelleni DVD-asemana. 
+- 
 - 
 
 ## Virtuaalitietokoneen asennus virtuaaliboksiin
 - Avasin virtuaaliboksin, josta painoin "New"
-- 
+  1. Virtuaalikoneen nimeksi annoin: test-debian-live-13.0.0-amd64-xfce.iso
+  2. Folder: pidin valmiiksi ehdotetun
+  3. ISO image: C:\Users\juuli\Downloads\debian-live-13.0.0-amd64-xfce.iso
+  4. Edition: tämän kohdan jätin tyhjäksi
+  5. OS: Linux
+  6. OS Distribution: Debian
+  7. OS Version (Debian 32-bit)
+  8. Valitse alhaalta Proceed with unattended installation. Tämä oli valmiiksi valittuna ja pidin sen. Lopulta painoin Next.
+- Seuraavalla sivulla loin käyttäjän, valmis käyttäjänimeiehdotuksen pidin ja keksin oman salasanan.
+- Viereisestä laatikosta Host ja Domain name:n pidin valmiiksiehdotettuina. Painoin Install in Backround sekä alhaalta painoin Install guest addditions ja painoin N
+- Seuraavalla sivulla RAM-muistiksi valitsin 4096 MB, CPU 2, disc size valmiiksi ehdotettu 20,00 GB. EFI: jätin painamatta, joten sitä en ottanut käyttöön.
+- Seuraavalta sivulta painoin Next ja Finish lukiessani, että tiedot täsmäävät ja ovat oikein valittu. 
