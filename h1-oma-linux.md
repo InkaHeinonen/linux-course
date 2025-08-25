@@ -9,5 +9,5 @@
 - Raportin tulos tulee olla toistettavissa toisen henkilön työstämänä
 - Raportoinnissa tulee olla ilmaistuna ympäristö, jossa työskentely on tapahtunut. Esimerkiksi millä laitteella, ohjelmistolla ja missä asiaa on tehty. 
 
-#### Täsmällinen
+### Täsmällinen
 - 
