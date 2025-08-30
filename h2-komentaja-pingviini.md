@@ -7,4 +7,10 @@
 - Lähteenä: https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited
 
 ## Tehtävä a) Micro-editorin asennus
-- 
+- Käytössä Windows 11 järjestelmä, VirtualBox 7.2.0
+
+- Micro-editoria asentaakseni katsoin internetistä keskustelupalstoilta mielipiteitä ja löysin linkistä selkeän ohjeen ja neuvon eri pluginsien asentamiseksi. Jatkoin kuitenkin asentamista Tero Karvisen ohjeella screenshotin mukaisilla komennoilla:
+<img width="897" height="713" alt="image" src="https://github.com/user-attachments/assets/851f67e9-64c9-44ea-a8a6-fbed5b103a88" />
+
+  
+- Lähteenä: https://youtu.be/kqCQLyrEZww?si=iCqq82dUgDOhsw_b , https://micro-editor.github.io/ https://terokarvinen.com/2022/micro-editor-plugin-hello-world/?fromSearch=micro 
