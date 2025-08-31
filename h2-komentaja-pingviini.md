@@ -126,7 +126,10 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Näkymässä voi hakea tiettyä sanaa kirjoittamalla komentoriville /, jonka jälkeen haluttu sana. Tässä esimerkissä kirjoitin /pattern
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/7b89550e-e6bf-4b97-8bf6-3c1292647416" />
 
+- Lähteenä: https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/ 
 
+
+<img width="817" height="402" alt="image" src="https://github.com/user-attachments/assets/80b6d61f-ee98-4a1e-be9b-9d89cbc13307" />
 
 
 
