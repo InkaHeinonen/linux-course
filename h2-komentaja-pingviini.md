@@ -47,8 +47,7 @@ $ micro tero.py
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/f15e5b9f-9dfd-4be0-b23a-3428b4717df4" />
 
-
-- Hokasin kokeilla F4 sijaan painaa kannettavalla tietokoneellani Fn + F4, joka aukaisi kuvan mukaisen valikon:
+- Hoksasin kokeilla F4 sijaan painaa kannettavalla tietokoneellani Fn + F4, joka aukaisi kuvan mukaisen valikon:
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/270ba36c-0b97-456b-bf1e-f56ade1bf436" />
 
@@ -75,9 +74,15 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 
 
 ### Navigointi kohteeseen: /home/
-- Home-hakemistoon voi mennä usealla eri tavalla. Kuvassa on putkeen esitetty eri esimerkein, miten sinne voi kulkea. Komentoina voi olla esimerkiksi: cd, cd var/log 
-<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/d4f24c5e-07c2-4fe2-882b-9719eff3d9cf" />
+- En ole varma, tulisiko pwd-komennolla tässä näkyä sijaintina /home, mutta sain tähän sijainniksi 'inka' tai /home/inka/
+- Youtube-videoissa ja internetin keskustelupalsoilta löysin navigointiohjeita vain osoitteeseen /home/user/
 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/fb585e26-b979-40c6-90a6-7a2bdd023321" />
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/cde0ade8-9966-40e4-808c-2696e7fd271c" />
+Tämän kuvan lähteeenä: https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
+
+- Lähteitä: https://youtu.be/3E0x-9kfyCY?si=QzKBTs878fcuueuz, https://askubuntu.com/questions/863762/how-to-navigate-to-home-directory, https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
 
 ### Navigointi kohteeseen: /home/inka/
 
@@ -90,7 +95,7 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/961418f5-2ff1-48d4-a05d-dc5a32f325a4" />
 
 
-### Navigointi kohteeseen:/Media/
+### Navigointi kohteeseen: /Media/
 - Navigointi kohteeseen komennolla: cd Media. Kuten kuvasta näkyy, kansio on tyhjä.
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/3c4a0b6e-0a1a-46e0-b98c-c2d57c4ed764" />
