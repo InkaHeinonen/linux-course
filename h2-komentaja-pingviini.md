@@ -69,16 +69,16 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 
 
 ## Tehtävä c) FHS - Important directories
-### /
+### Navigointi kohteeseen: /
 
-<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/7e293e76-dfba-4675-bd5c-99c465e18a12" />
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/2ed0a986-11cb-438c-9c15-5f064d998017" />
 
 
-### /home/
-- Home-hakemistoon voi mennä usealla eri tavalla. Kuvassa on putkeen esitetty eri esimerkein, miten sinne voi kulkea. Komentoina voi olla esimerkiksi: cd, cd ~, 
+### Navigointi kohteeseen: /home/
+- Home-hakemistoon voi mennä usealla eri tavalla. Kuvassa on putkeen esitetty eri esimerkein, miten sinne voi kulkea. Komentoina voi olla esimerkiksi: cd, cd var/log 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/d4f24c5e-07c2-4fe2-882b-9719eff3d9cf" />
 
-### /home/inka/
+### Navigointi kohteeseen: /home/inka/
 
 
 
