@@ -17,10 +17,12 @@
 ## Tehtävä b) Kolmen eri komentoriviohjelman asennus
 - Aihealue on itselleni vieras ja lähdin selvittämään, mitkä ovat aloittelijalle sopivimmat ohjelmat. Vaihtoehtoja oli lukuisia ja google-haulla pääasiallisesti tuli ehdotuksena eri komentoja, joita käyttää. En siis löytänyt haullani vielä useaa ehdotusta hyödyllisistä ohjelmista. Luotan hakusanojeni kehittyvän, kun opin aiheesta lisää.
 
+
 #### Shutter
 - Shutter-ohjelman asensin aluksi helpottamaan screen shottien ottamista ja jakamista git hubiin, ennenkuin havaitsin sen lopulta olleen turha ohjelma ja voin toteuttaa saman asian jo tietokoneen omalla toiminnollani. Shutter-ohjelmalla voi kuitenkin kätevästi valita, mihin näyttökuva tallennetaan ja löytää se komentorivihakemistostani jälkeenpäinkin
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5e917048-136b-4e1d-8b79-e6bf63501777" />
+
 
 #### Nethack
 - Opintojen aineistoissa oli maininta pelistä, joten mielenkiinnosta latasin kyseisen ohjelmiston. Pelaamaan en ehtinyt enempää, mutta näyttökuvassa on latauksen jälkeinen näkymä ja muutama steppi eteenpäin:
@@ -41,9 +43,44 @@ $ micro --plugin install jump
 - Latauksen jälkeen ohjelman saa auki:
 $ micro tero.py
   
-- Tämän jälkeen kirjoitin Python-lauseketta alla olevan kuvakaappauksen mukaisesti. Tämän jälkeen tallensin tekstin Ctrl + S ja painoin F4. Tästä ei kuitenkaan tapahtunut mitään ja en ole varma, miten tämän tulisi toimia. Tätä pitääkin kysyä seuraavalla oppitunnilla. 
+- Tämän jälkeen kirjoitin Python-lauseketta alla olevan kuvakaappauksen mukaisesti. Tämän jälkeen tallensin tekstin Ctrl + S ja painoin F4. Tästä ei kuitenkaan tapahtunut mitään ja en ollut aluksi varma, miten tämä toimii. 
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/f15e5b9f-9dfd-4be0-b23a-3428b4717df4" />
 
+
+- Hokasin kokeilla F4 sijaan painaa kannettavalla tietokoneellani Fn + F4, joka aukaisi kuvan mukaisen valikon:
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/270ba36c-0b97-456b-bf1e-f56ade1bf436" />
+
 Lähteenä: https://github.com/terokarvinen/micro-jump 
+
+
+### Kolmen eri ohjelman samanaikainen asennus
+- Löysin mallin, jolla voisi kolme eri ohjelmaa asentaa. Ohjelmaesimerkkeinä toimivat Jump F4 symbol jump. Palettero command palette, Runit F5 compile. Latasin nämä jo aiemmin, mutta en hoksannut niiden voineen jo kuulua edellisen tehtävänannon kolmeen ladattavaan ohjelmistoon. En vielä löytänyt kuitenkaan, miten nämä voisi hakea screenshotille listauksena, että ovat jo asennettuna. 
+- Komentokehoite edellä mainittujen asentamiseen:
+  1. $ sudo apt-get update
+  2. $ sudo apt-get -y install micro fzf exuberant-ctags
+  3. $ micro --plugin install jum
+  4. $ micro --plugin install palettero
+  5. $ micro --plugin install runit
+
+Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%20editor 
+
+
+
+## Tehtävä c) FHS - Important directories
+### /
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/7e293e76-dfba-4675-bd5c-99c465e18a12" />
+
+
+### /home/
+- Home-hakemistoon voi mennä usealla eri tavalla. Kuvassa on putkeen esitetty eri esimerkein, miten sinne voi kulkea. Komentoina voi olla esimerkiksi: cd, cd ~, 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/d4f24c5e-07c2-4fe2-882b-9719eff3d9cf" />
+
+### /home/inka/
+
+
+
+
 
