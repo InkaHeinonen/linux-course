@@ -78,7 +78,34 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 - Home-hakemistoon voi mennä usealla eri tavalla. Kuvassa on putkeen esitetty eri esimerkein, miten sinne voi kulkea. Komentoina voi olla esimerkiksi: cd, cd var/log 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/d4f24c5e-07c2-4fe2-882b-9719eff3d9cf" />
 
+
 ### Navigointi kohteeseen: /home/inka/
+
+
+### Navigointi kohteeseen: /var/log/
+- Navigointi kohteeseen komennolla: cd /var/log/, josta avasin sysstat. Sysstat-kansiosta löytyi tekstitiedosto, joka ei kuitenkaan ollut heti luettavissa.
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/54341967-c7fb-44e5-862b-14a70c7aa96e" />
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/961418f5-2ff1-48d4-a05d-dc5a32f325a4" />
+
+
+### Navigointi kohteeseen:/Media/
+- Navigointi kohteeseen komennolla: cd Media. Kuten kuvasta näkyy, kansio on tyhjä.
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/3c4a0b6e-0a1a-46e0-b98c-c2d57c4ed764" />
+
+
+### Navigointi kohteeseen:/etc/
+- Navigointi kohteeseen komennolla: cd /etc/, jonka jälkeen listauksen avaus komennolla: ls
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/74ff0e1c-db97-43cd-91bc-155a46ad67ee" />
+
+- Listauksesta hain muutaman virheklikkauksen jälkeen NetworkManager, josta avasin VPN. Tämä kuitenkin oli tyhjä, joten koitin System-connectionia, josta löytyikin yksi tiedosto
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/61e1834e-ff6c-42f9-9078-21039501e623" />
+
+
 
 
 
