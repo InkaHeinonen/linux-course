@@ -74,17 +74,23 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 
 
 ### Navigointi kohteeseen: /home/
-- En ole varma, tulisiko pwd-komennolla tässä näkyä sijaintina /home, mutta sain tähän sijainniksi 'inka' tai /home/inka/
+- En ole varma, tulisiko pwd-komennolla tässä näkyä sijaintina /home, mutta sain tähän sijainniksi 'inka' tai /home/inka/. Tähän en hae tiedostokansiota, koska epäilen tämän tehtävän olevan jollain tavalla väärin tehty. 
 - Youtube-videoissa ja internetin keskustelupalsoilta löysin navigointiohjeita vain osoitteeseen /home/user/
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/fb585e26-b979-40c6-90a6-7a2bdd023321" />
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/cde0ade8-9966-40e4-808c-2696e7fd271c" />
-Tämän kuvan lähteeenä: https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
+
+Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
 
 - Lähteitä: https://youtu.be/3E0x-9kfyCY?si=QzKBTs878fcuueuz, https://askubuntu.com/questions/863762/how-to-navigate-to-home-directory, https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
 
 ### Navigointi kohteeseen: /home/inka/
+- Navigointi komennolla: cd ja avaan edeltävällä oppitunnilla luodun kansion, joka on tyhjä.
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/c322d3e5-b085-4db3-8b09-afdb57a98262" />
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/676b49c5-d6b5-4eba-898a-0794c81ac970" />
 
 
 ### Navigointi kohteeseen: /var/log/
@@ -109,6 +115,22 @@ Tämän kuvan lähteeenä: https://linuxconfig.org/single-linux-command-to-retur
 - Listauksesta hain muutaman virheklikkauksen jälkeen NetworkManager, josta avasin VPN. Tämä kuitenkin oli tyhjä, joten koitin System-connectionia, josta löytyikin yksi tiedosto
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/61e1834e-ff6c-42f9-9078-21039501e623" />
+
+
+
+## Tehtävä d) The Friendly M
+- Kuvaavia esimerkkejä grep-komennon käytöstä.
+- Komentoriville kirjoitan man grep, josta avautuu kuvan mukainen näkymä:
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/222865df-5801-4718-bf7c-dcf864c928bb" />
+
+- Näkymässä voi hakea tiettyä sanaa kirjoittamalla komentoriville /, jonka jälkeen haluttu sana. Tässä esimerkissä kirjoitin /pattern
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/7b89550e-e6bf-4b97-8bf6-3c1292647416" />
+
+
+
+
+
+
 
 
 
