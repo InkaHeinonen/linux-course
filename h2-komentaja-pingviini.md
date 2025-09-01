@@ -173,12 +173,18 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 <img width="758" height="485" alt="image" src="https://github.com/user-attachments/assetsdd380d4e-2594-4368-8c26-130d922b598f" />
 
-<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/2daf1ea7-de2b-453c-b31d-e714cfdd3068" />
-
-
 - Lähteenä: https://www.youtube.com/watch?v=NlFvGZoAgTs
 
-- 
 
+
+## Tehtävä e) Rauta
+- Tehtävänantona on listata testaamani koneen rauta, selitä ja analysoi.
+- Ensimmäiseksi latasin komento-ohjelman: lshw
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/d5b2909c-456a-4d41-96cc-daa4d645145f" />
+
+- Tästä aukesi näkymä verkkotietokoneen tietoihin:
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/9144ee2a-42a0-4141-9e24-87d76cdc4bf1" />
 
 
