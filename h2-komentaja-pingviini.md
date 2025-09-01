@@ -15,6 +15,7 @@
 
 
 ## Tehtävä b) Kolmen eri komentoriviohjelman asennus
+- Tehtävänantona on asentaa itselle kolme uutta komentoriviohjelmaa. 
 - Aihealue on itselleni vieras ja lähdin selvittämään, mitkä ovat aloittelijalle sopivimmat ohjelmat. Vaihtoehtoja oli lukuisia ja google-haulla pääasiallisesti tuli ehdotuksena eri komentoja, joita käyttää. En siis löytänyt haullani vielä useaa ehdotusta hyödyllisistä ohjelmista. Luotan hakusanojeni kehittyvän, kun opin aiheesta lisää.
 
 
@@ -68,6 +69,8 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 
 
 ## Tehtävä c) FHS - Important directories
+- Tehtävänantona on näyttää esimerkkejä navigoinnista eri kohteisiin.
+
 ### Navigointi kohteeseen: /
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/2ed0a986-11cb-438c-9c15-5f064d998017" />
@@ -119,7 +122,7 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 
 ## Tehtävä d) The Friendly M
-- Kuvaavia esimerkkejä grep-komennon käytöstä.
+- Tehtävänantona on antaa kuvaavia esimerkkejä grep-komennon käytöstä.
 
 
 ### Esimerkki nro 1
@@ -141,7 +144,11 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/4ed4d2fd-0959-4037-89ac-ad9cbb50c0f2" />
 
+- Lähteenä: https://youtu.be/Tc_jntovCM0?si=Ylq66zW2u-2SMwMP
 
+
+## Tehtävä e) Pipe
+- Tehtävänantona on näyttää esimerkki putkista (pipes, "|").
 
 
 
