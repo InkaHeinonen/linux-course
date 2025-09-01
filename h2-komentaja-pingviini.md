@@ -71,12 +71,12 @@ Lähteenä: https://terokarvinen.com/get-started-micro-editor/?fromSearch=micro%
 ## Tehtävä c) FHS - Important directories
 - Tehtävänantona on näyttää esimerkkejä navigoinnista eri kohteisiin.
 
-### Navigointi kohteeseen: /
+#### Navigointi kohteeseen: /
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/2ed0a986-11cb-438c-9c15-5f064d998017" />
 
 
-### Navigointi kohteeseen: /home/
+#### Navigointi kohteeseen: /home/
 - En ole varma, tulisiko pwd-komennolla tässä näkyä sijaintina /home, mutta sain tähän sijainniksi 'inka' tai /home/inka/. Tähän en hae tiedostokansiota, koska epäilen tämän tehtävän olevan jollain tavalla väärin tehty. 
 - Youtube-videoissa ja internetin keskustelupalsoilta löysin navigointiohjeita vain osoitteeseen /home/user/
 
@@ -88,7 +88,7 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 - Lähteitä: https://youtu.be/3E0x-9kfyCY?si=QzKBTs878fcuueuz, https://askubuntu.com/questions/863762/how-to-navigate-to-home-directory, https://linuxconfig.org/single-linux-command-to-return-to-home-directory 
 
-### Navigointi kohteeseen: /home/inka/
+#### Navigointi kohteeseen: /home/inka/
 - Navigointi komennolla: cd ja avaan edeltävällä oppitunnilla luodun kansion, joka on tyhjä.
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/c322d3e5-b085-4db3-8b09-afdb57a98262" />
@@ -96,7 +96,7 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/676b49c5-d6b5-4eba-898a-0794c81ac970" />
 
 
-### Navigointi kohteeseen: /var/log/
+#### Navigointi kohteeseen: /var/log/
 - Navigointi kohteeseen komennolla: cd /var/log/, josta avasin sysstat. Sysstat-kansiosta löytyi tekstitiedosto, joka ei kuitenkaan ollut heti luettavissa.
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/54341967-c7fb-44e5-862b-14a70c7aa96e" />
@@ -104,13 +104,13 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/961418f5-2ff1-48d4-a05d-dc5a32f325a4" />
 
 
-### Navigointi kohteeseen: /Media/
+#### Navigointi kohteeseen: /Media/
 - Navigointi kohteeseen komennolla: cd Media. Kuten kuvasta näkyy, kansio on tyhjä.
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/3c4a0b6e-0a1a-46e0-b98c-c2d57c4ed764" />
 
 
-### Navigointi kohteeseen:/etc/
+#### Navigointi kohteeseen:/etc/
 - Navigointi kohteeseen komennolla: cd /etc/, jonka jälkeen listauksen avaus komennolla: ls
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/74ff0e1c-db97-43cd-91bc-155a46ad67ee" />
@@ -125,7 +125,7 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Tehtävänantona on antaa kuvaavia esimerkkejä grep-komennon käytöstä.
 
 
-### Esimerkki nro 1
+#### Esimerkki nro 1
 - Komentoriville kirjoitan man grep, josta avautuu kuvan mukainen näkymä:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/222865df-5801-4718-bf7c-dcf864c928bb" />
 
@@ -135,7 +135,7 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Lähteenä: https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/ 
 
 
-### Esimerkki nro 2
+#### Esimerkki nro 2
 - Esimerkissä etsin tekstitiedostosta annetun sanojen lukumäärän. Loin tekstitiedoston kansioon tätä varten ja kuvassa grep-komennolla sain tietooni, että tiedostossa on 2kpl laulaja-sanoja.
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/18d140ad-0974-4f9a-a7ae-2e5dd9047886" />
@@ -147,10 +147,19 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Lähteenä: https://youtu.be/Tc_jntovCM0?si=Ylq66zW2u-2SMwMP
 
 
+
 ## Tehtävä e) Pipe
 - Tehtävänantona on näyttää esimerkki putkista (pipes, "|").
+- Komennolla "|" voi antaa useamman komennon samalle komentoriville. Esimerkkinä: command 1 | command 2 | command 3
+
+- Lähteenä: https://www.geeksforgeeks.org/linux-unix/piping-in-unix-or-linux/ 
 
 
+#### Esimerkki Pipes
+- Kuvassa on annettu komento: ls | grep .txt
+- Komennolla etsitään hakemistosta kaikki tekstitiedostot. Alla olevassa kuvassa näkyy vielä näkymä, josta komento on tekstitiedostot poiminut.
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/9326377c-afc8-4204-8d27-1cb4de20f160" />
 
 
 
