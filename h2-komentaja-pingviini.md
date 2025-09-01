@@ -155,13 +155,30 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Lähteenä: https://www.geeksforgeeks.org/linux-unix/piping-in-unix-or-linux/ 
 
 
-#### Esimerkki Pipes
+#### Esimerkki "|"
 - Kuvassa on annettu komento: ls | grep .txt
 - Komennolla etsitään hakemistosta kaikki tekstitiedostot. Alla olevassa kuvassa näkyy vielä näkymä, josta komento on tekstitiedostot poiminut.
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/9326377c-afc8-4204-8d27-1cb4de20f160" />
 
+- Lähteenä: https://youtu.be/7PjAXqTPYPg?si=_obfBXfBIMVzBPEJ, https://www.geeksforgeeks.org/linux-unix/piping-in-unix-or-linux/
 
+
+#### Esimerkki Pipes
+- Pipe-komentoa en ymmärtänyt ja yritin videon mukaisesti tämän toistaa. Alla olevassa kuvassa komento, jonka yritin suorittaa.
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/02a71999-2cf4-459a-8564-efafaf6155df" />
+
+- Kuvaa tutkiessa huomasin, että tämä vaatii ilmeisesti tiedostomuodon .c
+
+<img width="758" height="485" alt="image" src="https://github.com/user-attachments/assetsdd380d4e-2594-4368-8c26-130d922b598f" />
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/2daf1ea7-de2b-453c-b31d-e714cfdd3068" />
+
+
+- Lähteenä: https://www.youtube.com/watch?v=NlFvGZoAgTs
+
+- 
 
 
 
