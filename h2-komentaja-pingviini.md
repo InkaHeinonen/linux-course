@@ -187,4 +187,10 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/9144ee2a-42a0-4141-9e24-87d76cdc4bf1" />
 
+- Järjestelmä on Virtualbox.
+- Muistia on 4Gib järjestelmässä sekä 128KiB Bios-muistia.
+- Prosessorina toimii AMD Ryzen 5 3500U Radeon Vega Mobilla. AMD Ryzen 5 3500U ei ole tehokkaimmasta päästä ja pystyy esimerkiksi kevyitä pelejä pyörittämään ja perustason työskentelyyn.
+- Kovalevyllä VBOX on 21G tilaa, joka on huomattavan vähän normaaliin tietokoneen verrattuna. Tämä voi omassa harjoittelukäytössä olla kuitenkin riittävä, mutta ei-verkkotietokoneen käyttöön riittää 128–256 Gt. 
+
+- Lähteet: https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3500U&id=3421
 
