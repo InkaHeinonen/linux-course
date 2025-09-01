@@ -120,6 +120,9 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 
 ## Tehtävä d) The Friendly M
 - Kuvaavia esimerkkejä grep-komennon käytöstä.
+
+
+### Esimerkki nro 1
 - Komentoriville kirjoitan man grep, josta avautuu kuvan mukainen näkymä:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/222865df-5801-4718-bf7c-dcf864c928bb" />
 
@@ -129,9 +132,14 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Lähteenä: https://www.cyberciti.biz/faq/howto-use-grep-command-in-linux-unix/ 
 
 
-<img width="817" height="402" alt="image" src="https://github.com/user-attachments/assets/80b6d61f-ee98-4a1e-be9b-9d89cbc13307" />
+### Esimerkki nro 2
+- Esimerkissä etsin tekstitiedostosta annetun sanojen lukumäärän. Loin tekstitiedoston kansioon tätä varten ja kuvassa grep-komennolla sain tietooni, että tiedostossa on 2kpl laulaja-sanoja.
 
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/18d140ad-0974-4f9a-a7ae-2e5dd9047886" />
 
+- Alla olevassa kuvassa näkyy vielä tekstitiedosto, jota komentokehoite koski. Tiedoston avasin komennolla: 'micro Listaus uusimmista' 
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/4ed4d2fd-0959-4037-89ac-ad9cbb50c0f2" />
 
 
 
