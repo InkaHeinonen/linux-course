@@ -46,9 +46,22 @@
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/cb16091d-58d8-4bbb-b561-a6b7f3feb335" />
 
+
 - Tässä tuli ongelmia ja en löydä, mihin tuo pitäisi sijoittaa. Tarkisin ja tässä olen nyt ilmeisesti korvannut edellisen sivun tällä uudella, koska sivun tekstiksi tuli Deafault eikä enää se edellinen teksti. Kuvassa päätöntä ohjeiden seuraamista, koska todennäköisesti olen nyt korvannut uuden sivun vanhalla ja en saa tästä asiaa edistettyä. Joten olen jumissa.
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/61a0aeb9-8a6a-41e8-86c3-f07e05c5c741" />
+
+
+- Tarkistin asiaa, niin samat oikeudet näkyvät site1.com ja hattu.example.com sivuilla:
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/35524aad-6f9d-434a-9c54-255993deac2b" />
+
+
+- Nyt tulikin mielenkiintoinen asia eteen:
+
+<img width="1067" height="435" alt="image" src="https://github.com/user-attachments/assets/b93f2917-2777-407f-8ce7-8f68040bccc5" />
+
+
 
 
 
