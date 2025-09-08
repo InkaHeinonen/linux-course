@@ -85,6 +85,13 @@
 
 
 
+## Tehtävä f) curl -I' ja 'curl' -komennot
+- Curl-komennolla saa tiedoston auki komentoriville, jonka avulla sen voi nopeasti lukea. Tämä on kätevää, jos tiedostossa ei ole paljoa sisältöä. Curl -I komennolla puolestaan saa auki ihan eri näkymän ja siitä saa tietoa esimerkiksi tiedostotyypistä, merkkimäärästä, päivämäärästä, serveristä ja muokkauspäivästä. 
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/c92faa30-49de-45cf-bdc1-9fe8fd8cf612" />
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/e8391bdc-2c01-4cb9-ab5d-33fe887fd08b" />
+
 
 
 
