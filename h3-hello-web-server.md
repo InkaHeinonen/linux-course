@@ -18,11 +18,39 @@
 ## Tehtävä a) Oman webbipalvelimen testaus localhost osoitteesta
 - Webbipalvelimen testaus osoitteesta: http://site1.com:
 
-<img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/f719b671-67f0-427c-9975-c565e532deae" />
+<img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/7b612e38-249c-44b0-9d21-5a3ff52458b4" />
 
-- Minun pitää vielä perehtyä, mistä löydän tiedoston, josta pääsisin muuttamaan teksisisällön. Sama näkymä komentoriviltä haettuna:
 
-<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/6d2bc761-6929-4790-b34f-9bd96315c213" />
+- Sama näkymä komentoriviltä haettuna:
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/a5fbb856-a2bd-4031-8119-7ac3f4c95ed4" />
+
+
+
+## Tehtävä b) Lokit
+- Lokitiedostoja löydän esimerkiksi komennolla cd /var/log/, jonka jälkeen komennolla ls -l:
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/4e20c154-32db-42c1-8ecb-07817e555a25" />
+
+
+- En kuitenkaan osaa etsiä reaaliaikaisia lokitietoja webbisivulla vierailusta. Tästä kuvasta katsottuna, ensimmäiset luvut vasemmalta ovat IP-osoitteeni, sitten päivämäärä. Lopussa näkyy webbiselain, jota käytetty kyseisenä ajankohtana. 
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/a10c8b9c-e543-4afa-92c1-0474f8d379c8" />
+
+
+
+## Tehtävä c) Etusivu uusiksi
+- Uuden sivun luominen lähteenä: https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
+
+- Kuvassa tulee komentokehoite:you need to run systemctl reload apache2. Tämän jälkeen tuli salasanapyyntö, jonka jälkeen komentoja pystyi taas normaalisti lisäämään. 
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/cb16091d-58d8-4bbb-b561-a6b7f3feb335" />
+
+- Tässä tuli ongelmia ja en löydä, mihin tuo pitäisi sijoittaa. Tarkisin ja tässä olen nyt ilmeisesti korvannut edellisen sivun tällä uudella, koska sivun tekstiksi tuli Deafault eikä enää se edellinen teksti. Kuvassa päätöntä ohjeiden seuraamista, koska todennäköisesti olen nyt korvannut uuden sivun vanhalla ja en saa tästä asiaa edistettyä. Joten olen jumissa.
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/61a0aeb9-8a6a-41e8-86c3-f07e05c5c741" />
+
+
 
 
 
