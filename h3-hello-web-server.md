@@ -72,6 +72,19 @@
 ## Tehtävä e) Validi HTML5-sivu
 - Lähteenä: https://terokarvinen.com/2012/short-html5-page/
 
+- Yritän kuvassa avata vanhaa index.html tiedostoa luodakseni sinne nettisivulle näkyvää materiaalia. Haasteena on tämä ja edellisellä yrittämällä tuli tieto, että ei ole oikeuksia muokata tiedostoa ilman sudoa, jonka jälkeen micron näkymä meni jumiin. Uudella yrittämällä tämä suostui sudona tallentamaan. 
+
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/62deac7e-f2a1-4d15-a8f6-e54be9c37a1b" />
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/b7ce3315-1251-4ed9-87ce-9145e005f33b" />
+
+
+- Sudon kanssa muokatessa sain luotua perusmallisen sivuston, jonka tekstilähteenä: https://www.lipsum.com/. 
+
+<img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/6a629f4f-fc1b-4d35-b4a5-6f9a447e1dce" />
+
+
+
 
 
 
