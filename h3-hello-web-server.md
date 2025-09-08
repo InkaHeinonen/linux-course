@@ -57,9 +57,21 @@
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/35524aad-6f9d-434a-9c54-255993deac2b" />
 
 
-- Nyt tulikin mielenkiintoinen asia eteen:
+- Nyt tulikin mielenkiintoinen asia eteen koittaessani saada ensimmäistä sivustoa pois päältä:
 
 <img width="1067" height="435" alt="image" src="https://github.com/user-attachments/assets/b93f2917-2777-407f-8ce7-8f68040bccc5" />
+
+<img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/dab28bc8-62ab-4b7a-b58a-cd2cf3f64a3c" />
+
+- Jotta en sekoita asiaa eteenpäin, jätän tämän tähän ja toivottavasti saan selville, miten tämä tulisi oikeaoppisesti tehdä. Tarkistin, joten teksti index.html:ssä on korvaantunut sanalla 'Default' ja jatkan tästä seuraavaan tehtävään. Tässä vaiheessa olen 2,5h lukenut internettiä ja koittanut tehtäviä tehdä tehtävästä a) alkaen. 
+
+<img width="1067" height="485" alt="image" src="https://github.com/user-attachments/assets/1000824b-bdad-4e90-b8f7-cc4a87a0d964" />
+
+
+
+## Tehtävä e) Validi HTML5-sivu
+
+
 
 
 
