@@ -93,6 +93,9 @@
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/e8391bdc-2c01-4cb9-ab5d-33fe887fd08b" />
 
 
+## Vapaaehtoinen tehtävä
+
+<img width="1203" height="437" alt="image" src="https://github.com/user-attachments/assets/366e0a30-2a6c-4ea2-aa82-06da5e735789" />
 
 
 
