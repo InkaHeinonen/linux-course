@@ -37,7 +37,7 @@
 
 
 ## Tehtävä a) Vuokraa oma virtuaalipalvelin haluamaltasi palveluntarjoajalta. 
-
+- Olin tehnyt kaksi hakemus Githubin Educationiin, jotka hylätty. Kolmannella kerralla ei hakemuksen lähetys onnistunut, vaikka olin korjannut tarvittavat toimet hakemuksen hyväksymiseksi. Päädyin siis vuokraamaan tässä tapauksessa 
 
 
 ## Tehtävä b) Tee alkutoimet omalla virtuaalipalvelimellasi: tulimuuri päälle, root-tunnus kiinni, ohjelmien päivitys.
