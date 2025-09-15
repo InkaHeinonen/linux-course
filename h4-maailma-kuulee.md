@@ -125,6 +125,7 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 
 
 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/14fa96b9-2dfc-4185-b619-58e6fc203b2f" />
 
 
 
