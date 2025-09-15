@@ -108,7 +108,7 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/4b04087c-8552-4306-853b-4f58ae4972d5" />
 
 
-- En ole varma johtuuko tämä encryptauksen poisottamisesta, joten menen laittamaan sen takaisin. Tämä ei kuitenkaan vaikuta mihinkään. 
+- En ole varma johtuuko tämä encryptauksen poisottamisesta, joten menen laittamaan sen takaisin. Tämä ei kuitenkaan vaikuta mihinkään. Linodesin omassa komentoikkunassa ei ole mahdollista nuolinäppäimillä liikkua ja en löydä ohjeistusta, miten siellä tulisi eri tavalla liikkua. Youtube-videossa käyttäjä kirjoittaa alkuun root, joka ohjaa suoraan kysymään salasanaa root-käyttäjälle. Minulla ei anna vaihtoehtoa liikkumiseen ja kokeilin kirjoittaa root annettuun kohtaan ja root-salasanan antamisella ei ole merkitystä ja en pääse asiassa eteenpäin. 
 
 
 
