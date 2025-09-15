@@ -128,6 +128,7 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/14fa96b9-2dfc-4185-b619-58e6fc203b2f" />
 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/04264550-7b2b-4c3d-98f6-9e48eb15282e" />
 
 
 
