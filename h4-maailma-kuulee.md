@@ -135,6 +135,9 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/d7141c36-ebd0-47c7-ad3a-1d5861fe4a13" />
 
 
+
+### Ohjelmien päivitys
+
 - Jatkan eteenpäin päivittämällä ohjelmat ja havaitsen päivityksissä menevän poikkeavan pitkään. Ennen ollut muutaman sekunnin, nyt useamman minuutin. 
           $ sudo apt-get update
           $ sudo apt-get upgrade
@@ -143,6 +146,8 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 - Palomuuriin reikä julkista palvelinta varten:
           sudo uwf allow 80/tcp
 
+
+### Tulimuuri päälle
 
 - HUOM!! Huomasin oikovani tehtävässä ja palomuuri jäi erikseen asentamatta root-käyttäjänä. Normikäyttäjänä näytti, että tämä olisi jo asennettu. Nyt kokeilin uudestaan tehdä reiän palomuuriin:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/a21d08d9-3fa6-4631-8b84-693c9f108bf9" />
@@ -153,6 +158,18 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 - Vaikka nyt pääsinkin eteenpäin, ei kuitenkaan SHH-yhteydellä saa käyttäjäni tunnuksia avatuksi:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/97991d2f-6836-48eb-b4bd-31c53922b07a" />
 
+
+- Kokeilin domainnimeni pingaamista komennolla:
+          ping inkaheinonen.com
+
+- Pingaus kesti kauan ja suljin terminaalin
+
+  <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/49b861fa-9cda-424d-b9e1-e8bab444db6b" />
+
+
+### Root-kiinni
+- Juuren lukitus komennolla:
+          $ sudo usermod --lock root
 
 
 ## Tehtävä c) Asenna weppipalvelin omalle virtuaalipalvelimellesi. Korvaa testisivu. Kokeile, että se näkyy julkisesti. Kokeile myös eri koneelta, esim kännykältä.
