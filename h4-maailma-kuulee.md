@@ -105,6 +105,9 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 
 - Opettaja Tero Karvisen ohjeissa havaitsin lukevan, että root@10.0.0.1 osiossa tuleekin poistaa 10.0.0.1 ja lisätä siihen oma IP-osoite. Nyt lisäsin sen ja tulee ilmoitus:
 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/4b04087c-8552-4306-853b-4f58ae4972d5" />
+
+
 
 
 
