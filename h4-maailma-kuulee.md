@@ -143,4 +143,16 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 - Palomuuriin reikä julkista palvelinta varten:
           sudo uwf allow 80/tcp
 
+
+- HUOM!! Huomasin oikovani tehtävässä ja palomuuri jäi erikseen asentamatta root-käyttäjänä. Normikäyttäjänä näytti, että tämä olisi jo asennettu. Nyt kokeilin uudestaan tehdä reiän palomuuriin:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/a21d08d9-3fa6-4631-8b84-693c9f108bf9" />
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/55813aad-6fa0-42ad-9077-2f66d4364eba" />
+
+
+- Vaikka nyt pääsinkin eteenpäin, ei kuitenkaan SHH-yhteydellä saa käyttäjäni tunnuksia avatuksi:
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/97991d2f-6836-48eb-b4bd-31c53922b07a" />
+
+
+
 ## Tehtävä c) Asenna weppipalvelin omalle virtuaalipalvelimellesi. Korvaa testisivu. Kokeile, että se näkyy julkisesti. Kokeile myös eri koneelta, esim kännykältä.
