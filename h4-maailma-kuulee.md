@@ -85,7 +85,7 @@
 
 
 ## Tehtävä b) Tee alkutoimet omalla virtuaalipalvelimellasi: tulimuuri päälle, root-tunnus kiinni, ohjelmien päivitys.
-- Tero Karvisen ohjeella: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/ tuli ensimmäiset haasteet vastaan. Koitan sulkea virtuaalikoneen kokonaan Shut downista, jos tämä auttaisi. 
+- Tero Karvisen ohjeella: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/ tuli ensimmäiset haasteet vastaan. Kokeilin sulkea virtuaalikoneen kokonaan Shut downista, jos tämä auttaisi. Sama ilmoitus kuitenkin toistuu. 
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/a127e64f-d15e-45bd-85bd-a1b0ebea41c1" />
 
