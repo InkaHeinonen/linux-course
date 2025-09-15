@@ -103,9 +103,13 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 <img width="1583" height="658" alt="image" src="https://github.com/user-attachments/assets/9a2a09df-119c-4f3a-9309-0fc961b6ae48" />
 
 
-- Opettaja Tero Karvisen ohjeissa havaitsin lukevan, että root@10.0.0.1 osiossa tuleekin poistaa 10.0.0.1 ja lisätä siihen oma IP-osoite. Nyt lisäsin sen ja tulee ilmoitus:
+- Opettaja Tero Karvisen ohjeissa havaitsin lukevan, että root@10.0.0.1 osiossa tuleekin poistaa 10.0.0.1 ja lisätä siihen oma IP-osoite. Nyt lisäsin sen ja tuli kuvanmukainen ilmoitus.
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/4b04087c-8552-4306-853b-4f58ae4972d5" />
+
+
+- En ole varma johtuuko tämä encryptauksen poisottamisesta, joten menen laittamaan sen takaisin. Tämä ei kuitenkaan vaikuta mihinkään. 
+
 
 
 
