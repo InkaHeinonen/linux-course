@@ -123,6 +123,7 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 - Suljin terminaalin ja kokeilin jatkaa tästä eteenpäin, kun root@-komennolla kirjauduin äsken sisään:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/12306d55-7f42-4719-95ec-ddb5c40328ea" />
 
+- Tämän jälkeen tein ensin käyttäjän ja sitten käyttäjästä pääkäyttäjän komennoilla, mutta nämä olivatkin jo aiemmin tehtyjä. 
 
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/14fa96b9-2dfc-4185-b619-58e6fc203b2f" />
