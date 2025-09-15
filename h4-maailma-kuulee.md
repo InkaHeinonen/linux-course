@@ -46,26 +46,47 @@
 <img width="1300" height="520" alt="image" src="https://github.com/user-attachments/assets/54b688ec-9876-4fbe-b09b-b260ca4ec873" />
 
 
-- Seuraava yritys tapahtuu Linoden kautta, jossa kirjauduin vastaavasti Githubin kautta ja sivusto pyysi heti ensimmäiseksi myös maksutietoja. Kävin vaihtamassa OS-kohtaan Debian 13, joka minulla on verkkotietokoneessakin käytössä. Tässä oli oletuksena tuo Ubuntu. Debiania oli tarjolla 11-13, josta valitsin uusimman. 
+- Seuraava yritys tapahtuu Linoden kautta, jossa kirjauduin vastaavasti Githubin kautta ja sivusto pyysi heti ensimmäiseksi myös maksutietoja.
 - Tässä näkymä etusivulta:
 
 <img width="1848" height="874" alt="image" src="https://github.com/user-attachments/assets/2425b4e6-af54-4d1d-9b3c-abc88f83e8e6" />
 
+
 - Nopeustestin mukaan sopivin kansallisuus oli valita Frankfurt 2, DE, jossa tuli korkeimmat lukemat.
 - Sitten valitsin edullisimman tuotepaketin: Shared CPU Linodes 5 $/kk.
-- SSH:avaimeen minun tulee perehtyä ja sitä en tässä lisännyt. Käytän Linodea vain nyt kurssin ajan, joten en lisännyt Details-osioon mitään. 
+- SSH:avaimeen minun tulee perehtyä ja sitä en tässä lisännyt. Käytän Linodea vain nyt kurssin ajan, joten en lisännyt Details-osioon mitään.
+- Kävin vaihtamassa OS-kohtaan Debian 13, joka minulla on verkkotietokoneessakin käytössä. Tässä oli oletuksena tuo Ubuntu. Debiania oli tarjolla 11-13, josta valitsin uusimman.
+- Mahdollisimman vähän lisätoimintoja, jotta kokeilu pysyisi yksinkertaisena ja edullisena.
 
 <img width="1551" height="729" alt="image" src="https://github.com/user-attachments/assets/62ddc172-8e54-4e92-9744-a316c91758fa" />
 
 <img width="734" height="879" alt="image" src="https://github.com/user-attachments/assets/6d49b055-d907-4783-89cb-91e892728154" />
 
+<img width="1590" height="851" alt="image" src="https://github.com/user-attachments/assets/65694399-ac96-419f-9559-94b9bc038b39" />
 
 
+- Noin minuutin odotuksen jälkeen boottaus oli valmis ja etusivunäkymä tällainen:
+<img width="1584" height="813" alt="image" src="https://github.com/user-attachments/assets/73ef163a-8890-45f5-abd7-90dda196c252" />
+
+
+- Virtuaalipalvelimen vuokraus on nyt hoidettu ja enää jäljellä oli domainnimen vuokraaminen.
+- Vuokrasin domainnimen NameCheapilta. Hintaeroa ei juurikaan ollut .me tai .com alkuiseen ja valitsin siis .com. Ennen nimen ostoa tuli ensin rekisteröityä. Sivusto tarjosi promokoodia, jolla sain tämän vuodeksi hintaan 5,54 euroa. Mitään ylimääräistä en tässäkään osta lisäksi.
+
+<img width="1736" height="837" alt="image" src="https://github.com/user-attachments/assets/8d940eb7-0f2b-43ce-926d-2b092de2a5db" />
+
+
+- Seuraavaksi domainnimi tuli yhdistää Linodelta hankitulle virtuaalipalvelimelle. Poistin kaikki turhat Host records -listalla olleet tiedostot. Sitten tein uuden tiedoston, jonka on tarkoitus ohjata domainnimi virtuaalipalvelimeni IP-osoitteeseen. Klikkasin punaista tekstiä Add new record ja lisäsin uudet tiedostot, joiden arvoksi asetin virtuaalipalvelimen IP-osoitteen ja TTL-sarakkeeseen arvoksi 5 minuuttia, jotta muutettuja tietoja haettaisiin 5 minuutin välein.
+
+<img width="1810" height="903" alt="image" src="https://github.com/user-attachments/assets/ad32d38a-751b-48eb-95ba-d783eabebb00" />
+
+<img width="1457" height="787" alt="image" src="https://github.com/user-attachments/assets/86480f08-043a-4ae0-b6d6-df7ba6eae51e" />
 
 
 
 
 ## Tehtävä b) Tee alkutoimet omalla virtuaalipalvelimellasi: tulimuuri päälle, root-tunnus kiinni, ohjelmien päivitys.
+- Tero Karvisen ohjeella: https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/ tuli ensimmäiset haasteet vastaan:
+
 
 
 
