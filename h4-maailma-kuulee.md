@@ -94,6 +94,16 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 <img width="976" height="891" alt="image" src="https://github.com/user-attachments/assets/c79c87ad-cb67-4a76-958b-bb5b43fd62b6" />
 
 
+- Nyt koitin videon ohjetta selatessa kuitenkin tehdä root-avain, joka voisi auttaa Linoden kautta kirjautumiseen. Erona vielä huomasin, että omani oli encrypted-tilassa, jonka kävin vielä samasta paikasta poistamassa. 
+
+<img width="1575" height="526" alt="image" src="https://github.com/user-attachments/assets/e90cf6f1-d4ee-4897-b02a-e70bc46d5eb4" />
+
+<img width="1174" height="794" alt="image" src="https://github.com/user-attachments/assets/993ccaa1-d3fa-4656-ad78-b84630f803ec" />
+
+<img width="1583" height="658" alt="image" src="https://github.com/user-attachments/assets/9a2a09df-119c-4f3a-9309-0fc961b6ae48" />
+
+
+- Opettaja Tero Karvisen ohjeissa havaitsin lukevan, että root@10.0.0.1 osiossa tuleekin poistaa 10.0.0.1 ja lisätä siihen oma IP-osoite. Nyt lisäsin sen ja tulee ilmoitus:
 
 
 
