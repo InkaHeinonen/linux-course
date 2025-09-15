@@ -123,13 +123,24 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 - Suljin terminaalin ja kokeilin jatkaa tästä eteenpäin, kun root@-komennolla kirjauduin äsken sisään:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/12306d55-7f42-4719-95ec-ddb5c40328ea" />
 
-- Tämän jälkeen tein ensin käyttäjän ja sitten käyttäjästä pääkäyttäjän komennoilla, mutta nämä olivatkin jo aiemmin tehtyjä. 
-
+- Tämän jälkeen tein ensin käyttäjän ja sitten käyttäjästä pääkäyttäjän komennoilla, mutta nämä olivatkin jo aiemmin tehtyjä. Admin-komentoa ei kuitenkaan jostain syystä tunnistettu:
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/14fa96b9-2dfc-4185-b619-58e6fc203b2f" />
 
-<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/04264550-7b2b-4c3d-98f6-9e48eb15282e" />
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/e9608c0f-2eab-4a0a-83d6-442ae8de51f7" />
 
 
+- Pääkäyttäjän luominen ei täysin onnistunut. Jatkan eteenpäin tästä ja kysyn oppitunnilla neuvoa asiaan lukitsemalla juuren käyttäjän, mutta ilmoituksessa kerrotaan vain sen olemassaolosta. 
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/d7141c36-ebd0-47c7-ad3a-1d5861fe4a13" />
+
+
+- Jatkan eteenpäin päivittämällä ohjelmat ja havaitsen päivityksissä menevän poikkeavan pitkään. Ennen ollut muutaman sekunnin, nyt useamman minuutin. 
+          $ sudo apt-get update
+          $ sudo apt-get upgrade
+
+
+- Palomuuriin reikä julkista palvelinta varten:
+          sudo uwf allow 80/tcp
 
 ## Tehtävä c) Asenna weppipalvelin omalle virtuaalipalvelimellesi. Korvaa testisivu. Kokeile, että se näkyy julkisesti. Kokeile myös eri koneelta, esim kännykältä.
