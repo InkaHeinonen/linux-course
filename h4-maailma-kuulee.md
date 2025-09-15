@@ -114,8 +114,14 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/c605dce9-8b83-4e94-9422-d8ea0fb9671b" />
 
 
-- Tässä jo kohta 3h kotitehtäviä tehdessä meinasi hämmennys iskeä, kunnes pääsin eteenpäin.
+- Tässä jo kohta 3h kotitehtäviä tehdessä meinasi hämmennys iskeä, kunnes pääsin eteenpäin hieman:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/fc4fec09-285b-466e-bff5-fb83e120c765" />
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/07e69a51-c046-4ebb-b479-c29e3ac4de64" />
+
+
+- Suljin terminaalin ja kokeilin jatkaa tästä eteenpäin, kun root@-komennolla kirjauduin äsken sisään:
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/12306d55-7f42-4719-95ec-ddb5c40328ea" />
 
 
 
