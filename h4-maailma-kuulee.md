@@ -36,6 +36,8 @@
 
 
 
+
+
 ## Tehtävä a) Vuokraa oma virtuaalipalvelin haluamaltasi palveluntarjoajalta. 
 - Olin tehnyt kaksi hakemus Githubin Educationiin, jotka hylätty. Kolmannella kerralla ei hakemuksen lähetys onnistunut, vaikka olin korjannut tarvittavat toimet hakemuksen hyväksymiseksi. Päädyin siis vuokraamaan tässä tapauksessa omakustanteisesti palvelimen Digital Ouceanilta, koska tässä työajassa en ehtinyt tarpeeksi perehtyä vagrant:n käyttöön. 
 - Aluksi reksiteröidyin Githubin käyttäjällä ja lisäsin maksutiedot tililleni.
@@ -80,6 +82,8 @@
 <img width="1810" height="903" alt="image" src="https://github.com/user-attachments/assets/ad32d38a-751b-48eb-95ba-d783eabebb00" />
 
 <img width="1457" height="787" alt="image" src="https://github.com/user-attachments/assets/86480f08-043a-4ae0-b6d6-df7ba6eae51e" />
+
+
 
 
 
