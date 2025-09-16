@@ -179,7 +179,8 @@ Tämän jälkeen löysin Youtube-videon, jonka avulla koitin suorittaa: https://
 ## Tehtävä c) Asenna weppipalvelin omalle virtuaalipalvelimellesi. Korvaa testisivu. Kokeile, että se näkyy julkisesti. Kokeile myös eri koneelta, esim kännykältä.
 
 
-- Apache2 oli jo asennettu ja näkymä kokeillessani nettisivua inkaheinonen.com. Tässä en jostain syystä pysty lisäämään reikää palomuuriin. Tämä voi olla syy, miksi sivua ei pysty lataamaan. Tämä pitää myös oppitunnilla selvittää ja kysyä. 
+- Apache2 oli jo asennettu ja näkymä kokeillessani nettisivua inkaheinonen.com. Tässä en jostain syystä pysty lisäämään reikää palomuuriin. Tämä voi olla syy, miksi sivua ei pysty lataamaan. Tämä pitää myös oppitunnilla selvittää ja kysyä. Koska tästä en pysty etenemään, niin valitettavasti tehtävä jää keskenkeräiseksi.
+- Sivun näkymä tällä hetkellä tietokoneelta ja puhelimelta sama. Jokin yhteys ei mene läpi, koska sivua ei voi ladata. Pitää palata asiaan oppitunnilla. 
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/68df4341-290d-4ee4-b9d3-795d8e9be081" />
 
