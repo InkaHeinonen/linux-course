@@ -2,7 +2,10 @@
 - tämän kerran lukuläksy on etsiä itse laadukkaat lähteet kaikkiin vieraisiin käsitteisiin ja työkaluihin. Vastaukset tulevat osaksi analyysiä ja tulkintaa, erillisiä tiivistelmiä ei tällä kertaa tehdä
 
 - alidomain = Alidomain on verkkotunnuksen liite, kuten osoitteessa inkaheinonen.com alidomainena voisi olla 'about' (about.inkaheinonen.com)
-- DNS = DNS on internetin nimipalvelujärjestelmä, joka kääntää helpommin tunnetut nettisivut IP-osoitteiksi. Esimerkiksi inkaheinonen.com kääntyy IP-osoitettaanu numeraaliseksi osoitteeksi 10.0.0.1 etc. 
+- DNS = DNS on internetin nimipalvelujärjestelmä, joka kääntää helpommin tunnetut nettisivut IP-osoitteiksi. Esimerkiksi inkaheinonen.com kääntyy IP-osoitettaanu numeraaliseksi osoitteeksi 10.0.0.1 etc.
+- dig-komento = 
+- host-komento = 
+  
 - Lähteet: https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
 
 
@@ -55,50 +58,73 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 - Asensin työasemalleni "DNS Utilities" -paketin, jotta pääsen tarkastelemaan host- ja dig-komennoilla DNS-tietoja.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/aad798fc-f2ce-4f13-9a57-05a3c525ad70" />
 
-- Kokeilin haku dig inkaheinonen.com ja tästä tuli virheilmoituksena Not command found.
+- Kokeilin komentoa 'dig inkaheinonen.com' ja tästä tuli virheilmoituksena Not command found.
 - Latasin bind+-lisäsoan vielä kuvanmukaisesti:
 
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/cc49331d-808b-44ab-b086-c8bd6a6c536d" />
+
 
 - Manuaalin aukeiseminen komennollla: 'man host'.
 - Kuvassa manuaali komennosta 'host':
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/fbaf8c70-542d-437c-bebb-cc18ce38df6e" />
 
-- Dig-komentoa ei vielä edellä olevilla toimilla ole saatu käyttöön. 
+- Huomasin, että olin ladannut paketin, mutta unohtanut antaa komennon 'sudo apt-get upgrade'. Nyt dig-komento toimii. Ennen tätä näkymä oli kuvan mukainen:
+<img width="454" height="78" alt="image" src="https://github.com/user-attachments/assets/750fce81-7cee-4c39-a64f-7bf9eca35562" />
 
+- Manuaalin aukaiseminen komennolla: 'man dig'.
+- Kuvassa manuaali komennosta 'dig':
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/3674c552-becf-4a34-b7f9-1fd4917f5b47" />
 
 
 
 
 ####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
 ##### Host-komennolla
-<img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
 - Kuvassa näkyy: 
+<img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
+
 
 
 ##### Dig-komennolla
+- Kuvassa näkyy: 
 <img width="454" height="78" alt="image" src="https://github.com/user-attachments/assets/750fce81-7cee-4c39-a64f-7bf9eca35562" />
+
 
 
 #### Tulokset sivustolta about.inkaheinonen.com host- ja dig-komennoilla
 ##### Host-komennolla
+- Kuvassa näkyy: 
 <img width="513" height="86" alt="image" src="https://github.com/user-attachments/assets/8727d97c-03cb-42c3-afab-82d65d03ac77" />
 
 
 ##### Dig-komennolla
+- Kuvassa näkyy: 
+<img width="710" height="443" alt="image" src="https://github.com/user-attachments/assets/0e572071-cb5e-4603-9bfd-dfc51ed69682" />
+
 
 
 #### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
 ##### Host-komennolla
+- Kuvassa näkyy: 
 <img width="653" height="202" alt="image" src="https://github.com/user-attachments/assets/d95a96b0-3baf-4f5d-8ea8-8652d375a392" />
 
 
 ##### Dig-komennolla
+- Kuvassa näkyy:
+
+<img width="703" height="465" alt="image" src="https://github.com/user-attachments/assets/14697649-80af-43a1-9af3-6bd9a8e3543b" />
+
 
 #### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
 ##### Host-komennolla
+- Kuvassa näkyy: 
 <img width="533" height="122" alt="image" src="https://github.com/user-attachments/assets/247e6056-74f1-4cfe-953f-cde52f2145a9" />
 
 
 ##### Dig-komennolla
+- Kuvassa näkyy:
 
+<img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
+
+
+- Lähteet: https://phoenixnap.com/kb/linux-host, https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de
