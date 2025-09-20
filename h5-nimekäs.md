@@ -55,25 +55,46 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 - Asensin työasemalleni "DNS Utilities" -paketin, jotta pääsen tarkastelemaan host- ja dig-komennoilla DNS-tietoja.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/aad798fc-f2ce-4f13-9a57-05a3c525ad70" />
 
+- Kokeilin haku dig inkaheinonen.com ja tästä tuli virheilmoituksena Not command found.
+- Latasin bind+-lisäsoan vielä kuvanmukaisesti:
+
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/cc49331d-808b-44ab-b086-c8bd6a6c536d" />
+
+- Manuaalin aukeiseminen komennollla: 'man host'.
+- Kuvassa manuaali komennosta 'host':
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/fbaf8c70-542d-437c-bebb-cc18ce38df6e" />
+
+- Dig-komentoa ei vielä edellä olevilla toimilla ole saatu käyttöön. 
+
+
+
+
+
 ####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
--
+##### Host-komennolla
+<img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
+- Kuvassa näkyy: 
 
 
-
+##### Dig-komennolla
+<img width="454" height="78" alt="image" src="https://github.com/user-attachments/assets/750fce81-7cee-4c39-a64f-7bf9eca35562" />
 
 
 #### Tulokset sivustolta about.inkaheinonen.com host- ja dig-komennoilla
--
+##### Host-komennolla
+<img width="513" height="86" alt="image" src="https://github.com/user-attachments/assets/8727d97c-03cb-42c3-afab-82d65d03ac77" />
 
 
+##### Dig-komennolla
 
 
 #### Tulokset sivustolta (pienyrittäjä) host- ja dig-komennoilla
-- 
+##### Host-komennolla
 
-
+##### Dig-komennolla
 
 #### Tulokset sivustolta (suuryrittäjä) host- ja dig-komennoilla
+##### Host-komennolla
 
-
+##### Dig-komennolla
 
