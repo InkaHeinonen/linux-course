@@ -1,5 +1,8 @@
 ## Tehtävä a) Nimi.
 - tämän kerran lukuläksy on etsiä itse laadukkaat lähteet kaikkiin vieraisiin käsitteisiin ja työkaluihin. Vastaukset tulevat osaksi analyysiä ja tulkintaa, erillisiä tiivistelmiä ei tällä kertaa tehdä
+
+
+
 ### Tehtävänantona: Laita julkinen nimi osoittamaan omaan koneeseesi.
 - Tehtävän olinkin tehnyt jo edelliseen tehtävään, joten kopioin sieltä tähän tehdyt toimet.
 
