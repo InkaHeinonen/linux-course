@@ -88,13 +88,17 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 ##### Dig-komennolla
 
 
-#### Tulokset sivustolta (pienyrittäjä) host- ja dig-komennoilla
+#### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
 ##### Host-komennolla
+<img width="653" height="202" alt="image" src="https://github.com/user-attachments/assets/d95a96b0-3baf-4f5d-8ea8-8652d375a392" />
+
 
 ##### Dig-komennolla
 
-#### Tulokset sivustolta (suuryrittäjä) host- ja dig-komennoilla
+#### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
 ##### Host-komennolla
+<img width="533" height="122" alt="image" src="https://github.com/user-attachments/assets/247e6056-74f1-4cfe-953f-cde52f2145a9" />
+
 
 ##### Dig-komennolla
 
