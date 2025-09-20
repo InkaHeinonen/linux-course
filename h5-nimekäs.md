@@ -43,6 +43,13 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="1059" height="579" alt="image" src="https://github.com/user-attachments/assets/4da87b09-e52a-45e7-9176-7963bb07b3a8" />
 
 
+- Sain asian korjattua tällaisella valinnalla:
+<img width="989" height="406" alt="image" src="https://github.com/user-attachments/assets/d93c225b-1567-4381-8c09-47d6405ff5d3" />
+
+<img width="522" height="147" alt="image" src="https://github.com/user-attachments/assets/ce4350b6-0cf6-432f-abda-ae85c29d37b2" />
+
+
+
 
 
 ### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig' -komennoilla. 
