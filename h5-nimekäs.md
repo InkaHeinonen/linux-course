@@ -1,8 +1,9 @@
 # Tehtävä h5 Nimekäs
 - tämän kerran lukuläksy on etsiä itse laadukkaat lähteet kaikkiin vieraisiin käsitteisiin ja työkaluihin. Vastaukset tulevat osaksi analyysiä ja tulkintaa, erillisiä tiivistelmiä ei tällä kertaa tehdä
 
-- alidomain =
-- 
+- alidomain = Alidomain on verkkotunnuksen liite, kuten osoitteessa inkaheinonen.com alidomainena voisi olla 'about' (about.inkaheinonen.com)
+- DNS = DNS on internetin nimipalvelujärjestelmä, joka kääntää helpommin tunnetut nettisivut IP-osoitteiksi. Esimerkiksi inkaheinonen.com kääntyy IP-osoitettaanu numeraaliseksi osoitteeksi 10.0.0.1 etc. 
+- Lähteet: https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
 
 
 ### Tehtävä a) Nimi
@@ -40,4 +41,10 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="531" height="151" alt="image" src="https://github.com/user-attachments/assets/ce39b8c6-f326-4e12-82fc-21b366124be1" />
 
 <img width="1059" height="579" alt="image" src="https://github.com/user-attachments/assets/4da87b09-e52a-45e7-9176-7963bb07b3a8" />
+
+
+
+
+### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig' -komennoilla. 
+
 
