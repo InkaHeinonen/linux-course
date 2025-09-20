@@ -51,6 +51,29 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 
 
-### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig' -komennoilla. 
+### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig'-komennoilla. 
+- Asensin työasemalleni "DNS Utilities" -paketin, jotta pääsen tarkastelemaan host- ja dig-komennoilla DNS-tietoja.
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/aad798fc-f2ce-4f13-9a57-05a3c525ad70" />
+
+####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
+-
+
+
+
+
+
+#### Tulokset sivustolta about.inkaheinonen.com host- ja dig-komennoilla
+-
+
+
+
+
+#### Tulokset sivustolta (pienyrittäjä) host- ja dig-komennoilla
+- 
+
+
+
+#### Tulokset sivustolta (suuryrittäjä) host- ja dig-komennoilla
+
 
 
