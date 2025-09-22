@@ -53,7 +53,6 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 
 
-
 ### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig'-komennoilla. 
 - Asensin työasemalleni "DNS Utilities" -paketin, jotta pääsen tarkastelemaan host- ja dig-komennoilla DNS-tietoja.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/aad798fc-f2ce-4f13-9a57-05a3c525ad70" />
@@ -76,30 +75,34 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/3674c552-becf-4a34-b7f9-1fd4917f5b47" />
 - Dig-komenti näyttää hieman enemmän tietoja ja host-komenti alustavasti vain IP-osoitteen sekä sähköpostin välitykseen liittyviä tietoja. 
 
-#### Dig-komennon tulkinta
+##### Dig-komennon tulkinta
 - Käytän kuvassa esimerkkikuvaa allaolevista internet-sivuista.
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/f8250565-4c3e-4ed1-adfc-06425ef3e582" />
 
-- HEADER-osio kertoo, onnistuiko pyyntö ja kuinka monta tietoa on kussakin osiossa. Kuvassa lukee mm. NOERROR, joten pyyntö     onnistui. 
+- HEADER-osio kertoo, onnistuiko pyyntö ja kuinka monta tietoa on kussakin osiossa. Kuvassa lukee mm. NOERROR, joten pyyntö onnistui. 
 
 - QUESTION-osio kertoo, mitä pyysin, eli tietoa sivusta inkaheinonen.com
 
 - ANSWER-osio kertoo DNS-serverilta saadut tiedot, kuten IP-osoitteen ja datan tyypit.
 
-- Lopussa näkyy, kuinka kauan tietojen haku kesti, serveri, milloin tietojen haku oli suoritettu sekä viestin koko. 
+- Lopussa näkyy, kuinka kauan tietojen haku kesti, serveri, milloin tietojen haku oli suoritettu sekä viestin koko.
+
+- Alla olevia kuvia verratessa tietojen haku kesti eniten oman inkaheinonen.com sivustolta.  
+
+
 
 
 ####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
 ##### Host-komennolla
-- Kuvassa näkyy: 
+- Kuvassa näkyy:
+
 <img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
 
 
-
 ##### Dig-komennolla
-- Kuvassa näkyy: 
-<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/8da4c440-5016-4239-9fb6-859482bf0951" />
+- Kuvassa näkyy:
 
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/8da4c440-5016-4239-9fb6-859482bf0951" />
 
 
 
@@ -111,8 +114,9 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 ##### Dig-komennolla
 - Kuvassa näkyy:
-- 
+
 <img width="710" height="443" alt="image" src="https://github.com/user-attachments/assets/0e572071-cb5e-4603-9bfd-dfc51ed69682" />
+
 
 
 #### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
@@ -128,8 +132,10 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="703" height="465" alt="image" src="https://github.com/user-attachments/assets/14697649-80af-43a1-9af3-6bd9a8e3543b" />
 
 
+
 #### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
 ##### Host-komennolla
+- Mielenkiintoista on, että Prisman sivustolta osoitteita löyty vain 2kpl, kun taas rotuyhdistyksen ja minun sivultani huomattavasti enemmän. 
 - Kuvassa näkyy:
 
 <img width="533" height="122" alt="image" src="https://github.com/user-attachments/assets/247e6056-74f1-4cfe-953f-cde52f2145a9" />
@@ -137,7 +143,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 ##### Dig-komennolla
 - Kuvassa näkyy:
-- 
+  
 <img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
 
 
