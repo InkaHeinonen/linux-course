@@ -92,6 +92,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 ####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
 ##### Host-komennolla
+- Mielenkiintoista kuvassa on, että sivustolla näkyy useampi osoite. Lieneekö tämä jonkin botin yritys asiaan, koska nettisivustolla kirjoitettu vain sana 'Testi' ja siellä olen vain muutaman kerran vieraillut. 
 - Kuvassa näkyy:
 
 <img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
