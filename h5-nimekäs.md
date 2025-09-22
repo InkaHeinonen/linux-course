@@ -3,8 +3,6 @@
 
 - alidomain = Alidomain on verkkotunnuksen liite, kuten osoitteessa inkaheinonen.com alidomainena voisi olla 'about' (about.inkaheinonen.com)
 - DNS = DNS on internetin nimipalvelujärjestelmä, joka kääntää helpommin tunnetut nettisivut IP-osoitteiksi. Esimerkiksi inkaheinonen.com kääntyy IP-osoitettaanu numeraaliseksi osoitteeksi 10.0.0.1 etc.
-- dig-komento = 
-- host-komento = 
   
 - Lähteet: https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
 
@@ -73,7 +71,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 - Manuaalin aukaiseminen komennolla: 'man dig'.
 - Kuvassa manuaali komennosta 'dig':
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/3674c552-becf-4a34-b7f9-1fd4917f5b47" />
-- Dig-komenti näyttää hieman enemmän tietoja ja host-komenti alustavasti vain IP-osoitteen sekä sähköpostin välitykseen liittyviä tietoja. 
+- Dig-komento näyttää hieman enemmän tietoja ja host-komento alustavasti vain IP-osoitteen sekä sähköpostin välitykseen liittyviä tietoja. 
 
 ##### Dig-komennon tulkinta
 - Käytän kuvassa esimerkkikuvaa allaolevista internet-sivuista.
