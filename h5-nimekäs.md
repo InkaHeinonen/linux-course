@@ -74,8 +74,19 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 - Manuaalin aukaiseminen komennolla: 'man dig'.
 - Kuvassa manuaali komennosta 'dig':
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/3674c552-becf-4a34-b7f9-1fd4917f5b47" />
+- Dig-komenti näyttää hieman enemmän tietoja ja host-komenti alustavasti vain IP-osoitteen sekä sähköpostin välitykseen liittyviä tietoja. 
 
+#### Dig-komennon tulkinta
+- Käytän kuvassa esimerkkikuvaa allaolevista internet-sivuista.
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/f8250565-4c3e-4ed1-adfc-06425ef3e582" />
 
+- HEADER-osio kertoo, onnistuiko pyyntö ja kuinka monta tietoa on kussakin osiossa. Kuvassa lukee mm. NOERROR, joten pyyntö     onnistui. 
+
+- QUESTION-osio kertoo, mitä pyysin, eli tietoa sivusta inkaheinonen.com
+
+- ANSWER-osio kertoo DNS-serverilta saadut tiedot, kuten IP-osoitteen ja datan tyypit.
+
+- Lopussa näkyy, kuinka kauan tietojen haku kesti, serveri, milloin tietojen haku oli suoritettu sekä viestin koko. 
 
 
 ####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
@@ -87,7 +98,8 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 ##### Dig-komennolla
 - Kuvassa näkyy: 
-<img width="454" height="78" alt="image" src="https://github.com/user-attachments/assets/750fce81-7cee-4c39-a64f-7bf9eca35562" />
+<img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/8da4c440-5016-4239-9fb6-859482bf0951" />
+
 
 
 
@@ -98,14 +110,15 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 
 ##### Dig-komennolla
-- Kuvassa näkyy: 
+- Kuvassa näkyy:
+- 
 <img width="710" height="443" alt="image" src="https://github.com/user-attachments/assets/0e572071-cb5e-4603-9bfd-dfc51ed69682" />
-
 
 
 #### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
 ##### Host-komennolla
-- Kuvassa näkyy: 
+- Kuvassa näkyy:
+
 <img width="653" height="202" alt="image" src="https://github.com/user-attachments/assets/d95a96b0-3baf-4f5d-8ea8-8652d375a392" />
 
 
@@ -117,14 +130,15 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 #### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
 ##### Host-komennolla
-- Kuvassa näkyy: 
+- Kuvassa näkyy:
+
 <img width="533" height="122" alt="image" src="https://github.com/user-attachments/assets/247e6056-74f1-4cfe-953f-cde52f2145a9" />
 
 
 ##### Dig-komennolla
 - Kuvassa näkyy:
-
+- 
 <img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
 
 
-- Lähteet: https://phoenixnap.com/kb/linux-host, https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de
+- Lähteet: https://phoenixnap.com/kb/linux-host, https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de, https://blog.globalping.io/how-to-read-a-dig-result-a-guide-for-network-novices/ 
