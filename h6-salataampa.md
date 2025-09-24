@@ -6,5 +6,8 @@
 - Aloitin lisäämällä palomuuriin reikä:
 <img width="583" height="287" alt="image" src="https://github.com/user-attachments/assets/7d16ec7a-1359-4cbe-b2d5-795faaa92791" />
 
+<img width="568" height="170" alt="image" src="https://github.com/user-attachments/assets/1622a7bb-25ba-41be-8e8d-46e0c29047a5" />
+
+
 
 ## Tehtävä b) A-rating. Testaa oma sivusi TLS jollain yleisellä laadunvarmistustyökalulla, esim. SSLLabs 
