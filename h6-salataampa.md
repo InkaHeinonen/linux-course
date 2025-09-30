@@ -9,6 +9,18 @@
 
 - Asiakas voi pyytää sertifikaatin käyttäen CSR:ää, kun hänet on varmennettu ja saanut oikeudet toimia tietylle domainille (Certificate Signing Request).
 
+- SSL manuaalinen kongfiguraatio Apachella vaatii vähintään seuraavat:
+
+        LoadModule ssl_module modules/mod_ssl.so
+        
+        Listen 443
+        <VirtualHost *:443>
+            ServerName www.example.com
+            SSLEngine on
+            SSLCertificateFile "/path/to/www.example.com.cert"
+            SSLCertificateKeyFile "/path/to/www.example.com.key"
+        </VirtualHost>
+
 - Lähteet: https://letsencrypt.org/how-it-works/, https://go-acme.github.io/lego/usage/cli/obtain-a-certificate/index.html#using-an-existing-running-web-server, https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample
 
 
@@ -53,8 +65,21 @@
 - Nyt löytyi todennäköisesti syy:
 <img width="610" height="138" alt="image" src="https://github.com/user-attachments/assets/c87f4120-372c-4fcb-9415-a4dca0d75e0c" />
 
-- Menin Linodeen Repoottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot. Tämä kesti noin 1min. Tämän jälkeen tuli kuitenkin sama ilmoitus, joten tämä ei auttanut yhteyden saamiseksi. 
+- Menin Linodeen Reboottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot. Tämä kesti noin 1min. Tämän jälkeen tuli kuitenkin sama ilmoitus, joten tämä ei auttanut yhteyden saamiseksi. 
 <img width="1019" height="278" alt="image" src="https://github.com/user-attachments/assets/43769759-df5b-47a8-bfb0-9c94d40f8dd7" />
+
+- Tarkistin alussa olevista lähteistä, onko siellä vinkkejä. Kuten tiivistelmässä lukee, niin konfiguraatio vaatii tietyt tiedot. En tosiaan keksi, mihin nämä tulisivat nyt liittää: 
+    - SSL manuaalinen kongfiguraatio Apachella vaatii vähintään seuraavat:
+
+        LoadModule ssl_module modules/mod_ssl.so
+        
+        Listen 443
+        <VirtualHost *:443>
+            ServerName www.example.com
+            SSLEngine on
+            SSLCertificateFile "/path/to/www.example.com.cert"
+            SSLCertificateKeyFile "/path/to/www.example.com.key"
+        </VirtualHost>
 
 
 
