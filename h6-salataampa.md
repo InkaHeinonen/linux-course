@@ -13,7 +13,8 @@
 
 
 ## Tehtävä a) Let's. Hanki ja asenna palvelimellesi ilmainen TLS-sertifikaatti Let's Encryptilta. Osoita, että se toimii.
-- Aloitan tekemällä reiän palomuuriin:
+- Aloitin potkaisemalla demonia komennolla: sudo systemctl reload apache2.
+- Varmistin tietokoneelta ja puhelimelta, että sivu toimii. Kaikki päällisin puolin kunnossa. 
 
 <img width="583" height="287" alt="image" src="https://github.com/user-attachments/assets/7d16ec7a-1359-4cbe-b2d5-795faaa92791" />
 
@@ -37,6 +38,14 @@
 
 - Uutta yritystä eri komentomuodolla. Nyt olen jo lähempänä:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/05ddfe50-b815-467d-a587-7f42e6533e2d" />
+
+- Käytin päivittämiseen aiemmin vahingossa komentoa: sudo apt-get uograde. Nyt teen sen komennolla kuitenkin: sudo apt-get update:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/adee23f2-f9c1-4953-bb61-e64f78a742e9" />
+
+
+<img width="817" height="526" alt="image" src="https://github.com/user-attachments/assets/303c2000-d6e9-424e-97ff-b2dddec1d0c8" />
+
+- Tein kansion komennolla: mkdir -p /home/inka/public-sites/inkaheinonen
 
 
 
