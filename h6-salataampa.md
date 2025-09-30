@@ -65,7 +65,7 @@
 - Nyt löytyi todennäköisesti syy:
 <img width="610" height="138" alt="image" src="https://github.com/user-attachments/assets/c87f4120-372c-4fcb-9415-a4dca0d75e0c" />
 
-- Menin Linodeen Reboottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot. Tämä kesti noin 1min. Tämän jälkeen tuli kuitenkin sama ilmoitus, joten tämä ei auttanut yhteyden saamiseksi. 
+- Menin Linodeen Reboottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot. Tämä kesti noin 1min. Tämän jälkeen tuli kuitenkin sama ilmoitus, joten tämä ei auttanut yhteyden saamiseksi. Edeltävällä oppitunnilla tähän oli selitys, mikä auttaisi. En internetistä löydä tieto asiaan ja tehtävä jää valitettavasti tähän. 
 <img width="1019" height="278" alt="image" src="https://github.com/user-attachments/assets/43769759-df5b-47a8-bfb0-9c94d40f8dd7" />
 
 - Tarkistin alussa olevista lähteistä, onko siellä vinkkejä. Kuten tiivistelmässä lukee, niin konfiguraatio vaatii tietyt tiedot. En tosiaan keksi, mihin nämä tulisivat nyt liittää: 
@@ -84,11 +84,9 @@
 
 
 
-
-
-
-
-
-
-
 ## Tehtävä b) A-rating. Testaa oma sivusi TLS jollain yleisellä laadunvarmistustyökalulla, esim. SSLLabs 
+- Tässä vaiheessa testasin TSL -salaukseni luokitusta seuraavalla verkkosivulla: Qualys SSL labs - SSL Server Test. Syötin hakukenttään inkaheinonen.com ja odotin tuloksia.
+
+- Kuten edeltävässä tehtävässä oli havaittavissa yhteysongelmia, niin ne ilmenee myös tässä:
+<img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/628271ae-a0de-4a7f-861d-c9cb6d670501" />
+
