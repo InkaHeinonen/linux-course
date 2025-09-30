@@ -31,9 +31,6 @@
 - Sertifikaatin lisääminen domainille, mutta tässä tulee virheilmoitus:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/f939796a-911e-459b-a986-30560e232275" />
 
-- Seuraavaksi koitin päivittää lataukset komennolla: sudo apt-get upgrade, mutta tämä ei auttanut:
-<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/e1274eb2-2fdc-4b18-9488-59bad7d99a8b" />
-
 - Tämän jälkeen olin aikomassa katsoa tiedostoa, mitä se pitää sisällään, olisiko siellä korjattavaa:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/9e87b42d-f178-40f6-91d7-8ee64b64b3d3" />
 
@@ -43,17 +40,19 @@
 - Käytin päivittämiseen aiemmin vahingossa komentoa: sudo apt-get uograde. Nyt teen sen komennolla kuitenkin: sudo apt-get update:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/adee23f2-f9c1-4953-bb61-e64f78a742e9" />
 
-
 <img width="817" height="526" alt="image" src="https://github.com/user-attachments/assets/303c2000-d6e9-424e-97ff-b2dddec1d0c8" />
 
 - Tein kansion komennolla: mkdir -p /home/inka/public-sites/inkaheinonen
+  
 - Tarkistin, mitä index.html kansiossa on ja korjasin tekstejä:
 <img width="817" height="347" alt="image" src="https://github.com/user-attachments/assets/ca8c88e7-c6ae-4ff7-b71c-1468483debfa" />
-- Tarkastan vielä, että oikeat tiedostot ja kansiot löytyvät varmasti:
-<img width="470" height="125" alt="image" src="https://github.com/user-attachments/assets/6c2574bb-9704-4736-ba9b-0682b778c29b" />
 
 - En ymmärrä, miksi tämä ei nyt toimi ja kokeilin antaa samoja komentoja uudestaan:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/796bb9aa-7c9e-4214-baef-b52f02494048" />
+
+- Nyt löytyi todennäköisesti syy:
+<img width="610" height="138" alt="image" src="https://github.com/user-attachments/assets/c87f4120-372c-4fcb-9415-a4dca0d75e0c" />
+
 
 
 
