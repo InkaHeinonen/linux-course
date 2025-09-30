@@ -53,7 +53,7 @@
 - Nyt löytyi todennäköisesti syy:
 <img width="610" height="138" alt="image" src="https://github.com/user-attachments/assets/c87f4120-372c-4fcb-9415-a4dca0d75e0c" />
 
-- Menin Linodeen Repoottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot:
+- Menin Linodeen Repoottaamaan kuvassa olevasta 3-pisteen kohdasta: Reboot. Tämä kesti noin 1min. Tämän jälkeen tuli kuitenkin sama ilmoitus, joten tämä ei auttanut yhteyden saamiseksi. 
 <img width="1019" height="278" alt="image" src="https://github.com/user-attachments/assets/43769759-df5b-47a8-bfb0-9c94d40f8dd7" />
 
 
