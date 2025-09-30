@@ -47,6 +47,11 @@
 <img width="817" height="526" alt="image" src="https://github.com/user-attachments/assets/303c2000-d6e9-424e-97ff-b2dddec1d0c8" />
 
 - Tein kansion komennolla: mkdir -p /home/inka/public-sites/inkaheinonen
+- Tarkistin, mitä index.html kansiossa on ja korjasin tekstejä:
+<img width="817" height="347" alt="image" src="https://github.com/user-attachments/assets/ca8c88e7-c6ae-4ff7-b71c-1468483debfa" />
+- Tarkastan vielä, että oikeat tiedostot ja kansiot löytyvät varmasti:
+<img width="470" height="125" alt="image" src="https://github.com/user-attachments/assets/6c2574bb-9704-4736-ba9b-0682b778c29b" />
+
 
 
 
