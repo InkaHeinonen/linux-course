@@ -14,7 +14,8 @@
 
 ## Tehtävä a) Let's. Hanki ja asenna palvelimellesi ilmainen TLS-sertifikaatti Let's Encryptilta. Osoita, että se toimii.
 - Aloitin potkaisemalla demonia komennolla: sudo systemctl reload apache2.
-- Varmistin tietokoneelta ja puhelimelta, että sivu toimii. Kaikki päällisin puolin kunnossa. 
+- Varmistin tietokoneelta ja puhelimelta, että sivu toimii. Kaikki päällisin puolin kunnossa.
+- Sitten tein palomuuriin reiän:
 
 <img width="583" height="287" alt="image" src="https://github.com/user-attachments/assets/7d16ec7a-1359-4cbe-b2d5-795faaa92791" />
 
