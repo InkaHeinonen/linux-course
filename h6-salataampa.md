@@ -90,3 +90,7 @@
 - Kuten edeltävässä tehtävässä oli havaittavissa yhteysongelmia, niin ne ilmenee myös tässä:
 <img width="1282" height="775" alt="image" src="https://github.com/user-attachments/assets/628271ae-a0de-4a7f-861d-c9cb6d670501" />
 
+- Omaa sivua hakiessa, näkyy kuitenkin sivun lataavan:
+<img width="577" height="84" alt="image" src="https://github.com/user-attachments/assets/ad7c28cb-3db2-4353-b516-480512bd1fa7" />
+
+
