@@ -15,10 +15,13 @@
 ## Tehtävä a) Let's. Hanki ja asenna palvelimellesi ilmainen TLS-sertifikaatti Let's Encryptilta. Osoita, että se toimii.
 - Aloitan tekemällä reiän palomuuriin:
 
-
 <img width="583" height="287" alt="image" src="https://github.com/user-attachments/assets/7d16ec7a-1359-4cbe-b2d5-795faaa92791" />
 
 <img width="568" height="170" alt="image" src="https://github.com/user-attachments/assets/1622a7bb-25ba-41be-8e8d-46e0c29047a5" />
+
+- Varmistin, että kaikki tarvittavat kunnossa:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/6b4cd6bf-5dd6-402d-9b61-36d20234207e" />
+
 
 - Sitten latasin certbotin:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/79614f10-d391-4951-8c95-8d0c66a9ddf9" />
