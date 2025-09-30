@@ -52,6 +52,9 @@
 - Tarkastan vielä, että oikeat tiedostot ja kansiot löytyvät varmasti:
 <img width="470" height="125" alt="image" src="https://github.com/user-attachments/assets/6c2574bb-9704-4736-ba9b-0682b778c29b" />
 
+- En ymmärrä, miksi tämä ei nyt toimi ja kokeilin antaa samoja komentoja uudestaan:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/796bb9aa-7c9e-4214-baef-b52f02494048" />
+
 
 
 
