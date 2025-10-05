@@ -1,6 +1,6 @@
 # Tehtävänanto h1
 
-## 1. Reportin kirjoittaminen
+## 1. Raportin kirjoittaminen
 - Raporttia tulee kirjoittaa täsmällisesti jatkuvasti oman työskentelyn edetessä.
 - Raportointi on helpointa tuottaa suoraan sähköiseen muotoon.
 - Raportteja voi hyödyntää omaan työskentelyyn muistiinpanoina, ohjeistukseksi muille ohjelmistojen käyttöön sekä ajatusten selkeyttämiseen.
