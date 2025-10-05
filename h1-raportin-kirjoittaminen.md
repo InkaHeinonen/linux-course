@@ -25,5 +25,5 @@
 ### Mokat
 - Raportin kirjoittamisessa voi epäonnistua esimerkiksi plagioimalla muiden tekstejä, kirjoittamalla valheellisesti sekä käyttämällä kuvia luvattomasti.
 
-#### Lähteet:
+### Lähteet:
 - https://terokarvinen.com/linux-palvelimet/ 
