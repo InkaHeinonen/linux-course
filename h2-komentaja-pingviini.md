@@ -1,3 +1,5 @@
+# Tehtävänanto h2
+
 ## Tehtävä nro X)
 - Jokaisella komennolla on oma tehtävänsä ja niiden kirjoitusasussa tulee olla tarkkana, kuten isot ja pienet kirjaimet.
 - Komennolla voit liikkua hakemistossa, tehdä sinne muutoksia, ladata sisältöä sekä tarkastella tiedostojen sisältöä.
@@ -190,7 +192,10 @@ Tämän kuvan lähteenä: https://linuxconfig.org/single-linux-command-to-return
 - Järjestelmä on Virtualbox.
 - Muistia on 4Gib järjestelmässä sekä 128KiB Bios-muistia.
 - Prosessorina toimii AMD Ryzen 5 3500U Radeon Vega Mobilla. AMD Ryzen 5 3500U ei ole tehokkaimmasta päästä ja pystyy esimerkiksi kevyitä pelejä pyörittämään ja perustason työskentelyyn.
-- Kovalevyllä VBOX on 21G tilaa, joka on huomattavan vähän normaaliin tietokoneen verrattuna. Tämä voi omassa harjoittelukäytössä olla kuitenkin riittävä, mutta ei-verkkotietokoneen käyttöön riittää 128–256 Gt. 
+- Kovalevyllä VBOX on 21G tilaa, joka on huomattavan vähän normaaliin tietokoneen verrattuna. Tämä voi omassa harjoittelukäytössä olla kuitenkin riittävä, mutta ei-verkkotietokoneen käyttöön riittää 128–256 Gt.
 
-- Lähteet: https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3500U&id=3421
+
+### Lähteet:
+- https://terokarvinen.com/linux-palvelimet/
+- https://www.cpubenchmark.net/cpu.php?cpu=AMD+Ryzen+5+3500U&id=3421
 
