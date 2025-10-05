@@ -2,7 +2,7 @@
 
 ## Tehtävä a) Kirjoita ja aja "Hei maailma" kolmella kielellä.
 
-### Shell script:
+### Bash
 - Aloitin scriptin luomisen luomalla helloworld.sh tiedoston ja tarkastin, että se löytyy luettelosta. 
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/1f3c4139-6ead-4bc3-98c4-b93a532a0a09" />
