@@ -12,7 +12,10 @@
 - Kuten ensimmäisestä kuvasta näkyy, oikeudet ovat scriptin ajamiseen jo heti oikeat, joten niitä ei tarvitse muuttaa komennolla: chmod a+x helloworld.sh -komennolla. Tämän saatoin tehdä tunnilla jo, joten kotitehtäviä tehdessä se olikin jo valmiina oikein.
 - Tässä kuvassa näkyy, että scripti ei vielä toimi tiedoston sijaitessa vielä väärässä paikassa:
 <img width="398" height="58" alt="image" src="https://github.com/user-attachments/assets/5bfc9092-a704-4a75-a30e-1fa219f0d34c" />
-
+- Seuraavaksi koitan ajaa scriptiä kotihakemiston kautta eri komennolla, mutta scripti ei toimi vieläkään ja käyn tekstitiedostosta poistamassa kommentin:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/06b98c27-20bc-4a5e-9a0f-46a383704665" />
+- Ja kuten näkyy, niin nyt tämä toimii:
+<img width="1106" height="295" alt="image" src="https://github.com/user-attachments/assets/adacd3eb-2520-45f5-97d6-4fa48c5f394d" />
 
 
 
