@@ -1,5 +1,5 @@
-# Tehtävä h5 Nimekäs
-- tämän kerran lukuläksy on etsiä itse laadukkaat lähteet kaikkiin vieraisiin käsitteisiin ja työkaluihin. Vastaukset tulevat osaksi analyysiä ja tulkintaa, erillisiä tiivistelmiä ei tällä kertaa tehdä
+# Tehtävänanto h5
+- Tämän kerran lukuläksy on etsiä itse laadukkaat lähteet kaikkiin vieraisiin käsitteisiin ja työkaluihin. Vastaukset tulevat osaksi analyysiä ja tulkintaa, erillisiä tiivistelmiä ei tällä kertaa tehdä
 
 - alidomain = Alidomain on verkkotunnuksen liite, kuten osoitteessa inkaheinonen.com alidomainena voisi olla 'about' (about.inkaheinonen.com)
 - DNS = DNS on internetin nimipalvelujärjestelmä, joka kääntää helpommin tunnetut nettisivut IP-osoitteiksi. Esimerkiksi inkaheinonen.com kääntyy IP-osoitettaanu numeraaliseksi osoitteeksi 10.0.0.1 etc.
@@ -145,5 +145,11 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
   
 <img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
 
-
-- Lähteet: https://phoenixnap.com/kb/linux-host, https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de, https://blog.globalping.io/how-to-read-a-dig-result-a-guide-for-network-novices/ 
+### Lähteet:
+- https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
+- https://phoenixnap.com/kb/linux-host
+- https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de
+- https://blog.globalping.io/how-to-read-a-dig-result-a-guide-for-network-novices/
+- https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain
+- https://www.namecheap.com/support/knowledgebase/article.aspx/579/2237/which-record-type-option-should-i-choose-for-the-information-im-about-to-enter
+- https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain
