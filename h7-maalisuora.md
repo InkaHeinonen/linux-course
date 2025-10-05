@@ -23,7 +23,8 @@
 ### Python3
 - Loin tekstitiedoston komennolla: micro helloworld.py:
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/c2a23d14-6baa-49ec-b2c3-80dcf064bc50" />
-- Testasin ja komento toimii:
+
+- Testasin ja komento toimii ilman oikeuden määritystä:
 <img width="817" height="371" alt="image" src="https://github.com/user-attachments/assets/d4ae28b5-6762-425b-b8eb-c4f6217810b3" />
 
 
@@ -31,9 +32,12 @@
 ### C++
 - Aloitin päivittämällä asennuspaketit ja asensin ohjeen mukaisesti tiedoston build-essential-ohjelmiston.
 <img width="817" height="409" alt="image" src="https://github.com/user-attachments/assets/9c80b9c8-9cb0-405f-af09-94fb3a1afbd2" />
+
 - Sitten loin tekstitiedoston komennolla: micro helloworld.cpp
 <img width="817" height="368" alt="image" src="https://github.com/user-attachments/assets/981aebb7-be60-4c72-a26e-2db536b41632" />
-
+- Sitten käänsin GNU C++ kääntäjää käyttäen lähdekoodin suoritettavaksi ohjelmaksi komennolla: g++ helloworld.cpp -o helloworld
+- Lopulta suoritin ohjelman ja se toimii myös ilman oikeuksien määrittelemistä:
+<img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/07c79332-1c90-466e-8c04-0e9563485f3c" />
 
 
 ## Tehtävä b) Lähdeviitteet. Tarkista ja tarvittaessa lisää lähdeviitteet kaikkiin raportteihisi h1 alkaen.
