@@ -35,6 +35,7 @@
 
 - Sitten loin tekstitiedoston komennolla: micro helloworld.cpp
 <img width="817" height="368" alt="image" src="https://github.com/user-attachments/assets/981aebb7-be60-4c72-a26e-2db536b41632" />
+
 - Sitten käänsin GNU C++ kääntäjää käyttäen lähdekoodin suoritettavaksi ohjelmaksi komennolla: g++ helloworld.cpp -o helloworld
 - Lopulta suoritin ohjelman ja se toimii myös ilman oikeuksien määrittelemistä:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/07c79332-1c90-466e-8c04-0e9563485f3c" />
