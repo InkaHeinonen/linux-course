@@ -46,16 +46,20 @@
 
 
 ## Tehtävä c) Laita Linuxiin uusi, itse tekemäsi komento niin, että kaikki käyttäjät voivat ajaa sitä.
--
+- Loin tiedoston sudolla julkiseen kansiopaikkaan:
+<img width="596" height="118" alt="image" src="https://github.com/user-attachments/assets/f8076d99-b64d-4201-a51a-79f4d0a82d44" />
+
+- Tekstitiedostoon lisäsin kuvan mukaisen sisällön:
+<img width="457" height="209" alt="image" src="https://github.com/user-attachments/assets/fa738868-dab1-4db8-99fe-ca9092cc8d0b" />
+
+- Seuraavaksi annoin oikeudet tiedostolle komennolla: chmod a+x /usr/local/bin/listaus.sh ja ajoin komennon:
+<img width="434" height="106" alt="image" src="https://github.com/user-attachments/assets/2b0d0244-2f06-47e8-b07d-d7ec59f34544" />
+
+
+
 
 
 ### Lähteet:
 - https://terokarvinen.com/linux-palvelimet/
 - https://terokarvinen.com/2018/hello-python3-bash-c-c-go-lua-ruby-java-programming-languages-on-ubuntu-18-04/ 
 - https://github.com/johannaheinonen/johanna-test-repo/blob/main/linux-01102025.md
-
-## Tehtävä d) Ratkaise vanha arvioitava laboratorioharjoitus soveltuvin osin.
--
-
-### Lähteet:
-- https://terokarvinen.com/linux-palvelimet/
