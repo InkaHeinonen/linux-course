@@ -1,3 +1,5 @@
+# Tehtävänanto h6
+
 ## Tehtävä x) Lue ja tiivistä
 - Let's Encrypt:lta saa ilmaisia TLS/SSL-varmenteita, joiden avulla voidaan varmistaa verkkosivustojen HTTPS-salaus. Toiminta perustuu ACME-protokollaan.
 
@@ -94,3 +96,8 @@
 <img width="577" height="84" alt="image" src="https://github.com/user-attachments/assets/ad7c28cb-3db2-4353-b516-480512bd1fa7" />
 
 
+### Lähteet:
+- https://terokarvinen.com/linux-palvelimet/
+- https://letsencrypt.org/how-it-works/
+- https://go-acme.github.io/lego/usage/cli/obtain-a-certificate/index.html#using-an-existing-running-web-server
+- https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample
