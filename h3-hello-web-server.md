@@ -1,3 +1,5 @@
+# Tehtävänanto h3
+
 ## Tehtävät x)
 
 #### Name-based vs. IP-based Virtual Hosts
@@ -98,8 +100,8 @@
 <img width="1203" height="437" alt="image" src="https://github.com/user-attachments/assets/366e0a30-2a6c-4ea2-aa82-06da5e735789" />
 
 
-
-
-
-
-
+### Lähteet:
+- https://terokarvinen.com/linux-palvelimet/
+- https://terokarvinen.com/2012/short-html5-page/
+- https://httpd.apache.org/docs/2.4/vhosts/name-based.html
+- https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/
