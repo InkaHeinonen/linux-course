@@ -23,4 +23,7 @@
 - Raportissa tulee lähdeviittaus olla asianmukaisesti tehty, joka osoittaa raportin kirjoittajan olevan perehtynyt aiheeseen.
 
 ### Mokat
-- Raportin kirjoittamisessa voi epäonnistua esimerkiksi plagioimalla muiden tekstejä, kirjoittamalla valheellisesti sekä käyttämällä kuvia luvattomasti. 
+- Raportin kirjoittamisessa voi epäonnistua esimerkiksi plagioimalla muiden tekstejä, kirjoittamalla valheellisesti sekä käyttämällä kuvia luvattomasti.
+
+#### Lähteet:
+- https://terokarvinen.com/linux-palvelimet/ 
