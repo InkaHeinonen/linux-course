@@ -1,6 +1,8 @@
 # Tehtävänanto h7
 
 ## Tehtävä a) Kirjoita ja aja "Hei maailma" kolmella kielellä.
+
+### Shell script:
 - 
 
 ## Tehtävä b) Lähdeviitteet. Tarkista ja tarvittaessa lisää lähdeviitteet kaikkiin raportteihisi h1 alkaen.
