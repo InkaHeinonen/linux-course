@@ -16,8 +16,7 @@
 - Seuraavaksi koitan ajaa scriptiä kotihakemiston kautta eri komennolla, mutta scripti ei toimi vieläkään ja käyn tekstitiedostosta poistamassa kommentin:
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/06b98c27-20bc-4a5e-9a0f-46a383704665" />
 - Ja kuten näkyy, niin nyt tämä toimii:
-<img width="1106" height="295" alt="image" src="https://github.com/user-attachments/assets/adacd3eb-2520-45f5-97d6-4fa48c5f394d" />
-
+<img width="1092" height="330" alt="image" src="https://github.com/user-attachments/assets/ad1430d7-8410-4d35-a8c1-0b9c2f44c90c" />
 
 
 ## Tehtävä b) Lähdeviitteet. Tarkista ja tarvittaessa lisää lähdeviitteet kaikkiin raportteihisi h1 alkaen.
