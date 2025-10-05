@@ -146,6 +146,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
 
 ### Lähteet:
+- https://terokarvinen.com/linux-palvelimet/
 - https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
 - https://phoenixnap.com/kb/linux-host
 - https://medium.com/@adil_94543/dns-resolution-using-linux-command-74d43fa642de
