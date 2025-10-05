@@ -7,7 +7,7 @@
 - Lähteet: https://tnnet.fi/blogi/dns-hallinta-mita-se-on/ 
 
 
-### Tehtävä a) Nimi
+## Tehtävä a) Nimi
 Laita julkinen nimi osoittamaan omaan koneeseesi.
 
 - Tehtävän olinkin tehnyt jo edelliseen tehtävään, joten kopioin sieltä tähän tehdyt toimet.
@@ -26,7 +26,7 @@ Laita julkinen nimi osoittamaan omaan koneeseesi.
 
 
 
-### Tehtävä b) Alidomain
+## Tehtävä b) Alidomain
 Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi. 
 - Lähteenä: https://www.namecheap.com/support/knowledgebase/article.aspx/9776/2237/how-to-create-a-subdomain-for-my-domain, https://www.namecheap.com/support/knowledgebase/article.aspx/579/2237/which-record-type-option-should-i-choose-for-the-information-im-about-to-enter https://www.namecheap.com/support/knowledgebase/article.aspx/319/2237/how-can-i-set-up-an-a-address-record-for-my-domain
 
@@ -51,7 +51,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 
 
-### Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig'-komennoilla. 
+## Tehtävä c) Tutki jonkin nimen DNS-tietoja 'host' ja 'dig'-komennoilla. 
 - Asensin työasemalleni "DNS Utilities" -paketin, jotta pääsen tarkastelemaan host- ja dig-komennoilla DNS-tietoja.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/aad798fc-f2ce-4f13-9a57-05a3c525ad70" />
 
@@ -73,7 +73,7 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 <img width="1280" height="749" alt="image" src="https://github.com/user-attachments/assets/3674c552-becf-4a34-b7f9-1fd4917f5b47" />
 - Dig-komento näyttää hieman enemmän tietoja ja host-komento alustavasti vain IP-osoitteen sekä sähköpostin välitykseen liittyviä tietoja. 
 
-##### Dig-komennon tulkinta
+#### Dig-komennon tulkinta
 - Käytän kuvassa esimerkkikuvaa allaolevista internet-sivuista.
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/f8250565-4c3e-4ed1-adfc-06425ef3e582" />
 
@@ -90,57 +90,57 @@ Tee kaksi uutta alidomainia, jotka osoittava omaan koneeseesi.
 
 
 
-####  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
-##### Host-komennolla
+###  Tulokset sivustolta www.inkaheinonen.com host- ja dig-komennoilla
+#### Host-komennolla
 - Mielenkiintoista kuvassa on, että sivustolla näkyy useampi osoite. Lieneekö tämä jonkin botin yritys asiaan, koska nettisivustolla kirjoitettu vain sana 'Testi' ja siellä olen vain muutaman kerran vieraillut. 
 - Kuvassa näkyy:
 
 <img width="722" height="207" alt="image" src="https://github.com/user-attachments/assets/5d8b6376-cdf0-462b-9c75-686900823921" />
 
 
-##### Dig-komennolla
+#### Dig-komennolla
 - Kuvassa näkyy:
 
 <img width="817" height="485" alt="image" src="https://github.com/user-attachments/assets/8da4c440-5016-4239-9fb6-859482bf0951" />
 
 
 
-#### Tulokset sivustolta about.inkaheinonen.com host- ja dig-komennoilla
-##### Host-komennolla
+### Tulokset sivustolta about.inkaheinonen.com host- ja dig-komennoilla
+#### Host-komennolla
 - Kuvassa näkyy: 
 <img width="513" height="86" alt="image" src="https://github.com/user-attachments/assets/8727d97c-03cb-42c3-afab-82d65d03ac77" />
 
 
-##### Dig-komennolla
+#### Dig-komennolla
 - Kuvassa näkyy:
 
 <img width="710" height="443" alt="image" src="https://github.com/user-attachments/assets/0e572071-cb5e-4603-9bfd-dfc51ed69682" />
 
 
 
-#### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
-##### Host-komennolla
+### Tulokset sivustolta www.kromfohrlander.fi (koirani rotuyhdistyksen www-sivut) host- ja dig-komennoilla
+#### Host-komennolla
 - Kuvassa näkyy:
 
 <img width="653" height="202" alt="image" src="https://github.com/user-attachments/assets/d95a96b0-3baf-4f5d-8ea8-8652d375a392" />
 
 
-##### Dig-komennolla
+#### Dig-komennolla
 - Kuvassa näkyy:
 
 <img width="703" height="465" alt="image" src="https://github.com/user-attachments/assets/14697649-80af-43a1-9af3-6bd9a8e3543b" />
 
 
 
-#### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
-##### Host-komennolla
+### Tulokset sivustolta www.prisma.fi host- ja dig-komennoilla
+#### Host-komennolla
 - Mielenkiintoista on, että Prisman sivustolta osoitteita löyty vain 2kpl, kun taas rotuyhdistyksen ja minun sivultani huomattavasti enemmän. 
 - Kuvassa näkyy:
 
 <img width="533" height="122" alt="image" src="https://github.com/user-attachments/assets/247e6056-74f1-4cfe-953f-cde52f2145a9" />
 
 
-##### Dig-komennolla
+#### Dig-komennolla
 - Kuvassa näkyy:
   
 <img width="702" height="451" alt="image" src="https://github.com/user-attachments/assets/f7c41c69-8b80-4458-8223-514e19e623fe" />
